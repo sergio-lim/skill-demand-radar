@@ -6,6 +6,7 @@
 [![python](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![data](https://img.shields.io/badge/data-live%20(keyless)-3ee0b3.svg)](#data-sources)
 [![updated](https://img.shields.io/badge/updated-daily-7c9cff.svg)](.github/workflows/update.yml)
+[![ci](https://github.com/sergio-lim/skill-demand-radar/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/sergio-lim/skill-demand-radar/actions/workflows/ci.yml)
 
 ![dashboard](assets/dashboard.png)
 ![demo](assets/demo.gif)
