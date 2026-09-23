@@ -1,0 +1,422 @@
+[
+  {
+    "title": "Senior Python Backend Engineer",
+    "company": "Northwind Labs",
+    "location": "Berlin, Germany",
+    "remote": true,
+    "tags": ["python", "django", "postgres", "redis", "aws"],
+    "description": "Build REST APIs with Python, Django and FastAPI. Own PostgreSQL schemas, Redis caches and AWS deployments. Docker and Linux everyday.",
+    "url": "https://example.com/jobs/northwind-python-backend",
+    "date": "2026-09-18"
+  },
+  {
+    "title": "Staff Backend Engineer (Go)",
+    "company": "Helios Pay",
+    "location": "Amsterdam, Netherlands",
+    "remote": true,
+    "tags": ["golang", "grpc", "kubernetes", "kafka"],
+    "description": "Go engineer for payments. gRPC services on Kubernetes, Kafka event streams, Terraform for GCP. CI/CD with GitHub Actions.",
+    "url": "https://example.com/jobs/helios-go-backend",
+    "date": "2026-09-17"
+  },
+  {
+    "title": "Frontend Engineer — React & TypeScript",
+    "company": "Lumen UI",
+    "location": "London, United Kingdom",
+    "remote": true,
+    "tags": ["react", "typescript", "next.js", "css"],
+    "description": "Frontend role building a design system in React, TypeScript and Next.js. Strong HTML/CSS, GraphQL clients, Figma handoff.",
+    "url": "https://example.com/jobs/lumen-frontend",
+    "date": "2026-09-16"
+  },
+  {
+    "title": "Full-Stack Engineer",
+    "company": "Patio Commerce",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["javascript", "node", "react", "postgres"],
+    "description": "Full-stack product engineer. Node.js + Express on the backend, React on the frontend, PostgreSQL, REST APIs, Git and Agile rituals.",
+    "url": "https://example.com/jobs/patio-fullstack",
+    "date": "2026-09-15"
+  },
+  {
+    "title": "Flutter Mobile Developer",
+    "company": "Orbita Health",
+    "location": "Barcelona, Spain",
+    "remote": true,
+    "tags": ["flutter", "dart", "firebase"],
+    "description": "Ship iOS and Android apps with Flutter and Dart. REST APIs, CI/CD, and a bit of Swift/Kotlin for native plugins.",
+    "url": "https://example.com/jobs/orbita-flutter",
+    "date": "2026-09-19"
+  },
+  {
+    "title": "iOS Engineer",
+    "company": "Harbor Notes",
+    "location": "San Francisco, United States",
+    "remote": false,
+    "tags": ["swift", "ios", "mobile"],
+    "description": "Native iOS engineer. Swift, REST APIs, Git. Collaborate with Figma-driven product design.",
+    "url": "https://example.com/jobs/harbor-ios",
+    "date": "2026-09-12"
+  },
+  {
+    "title": "Android Engineer",
+    "company": "Kite Transit",
+    "location": "Sao Paulo, Brazil",
+    "remote": true,
+    "tags": ["kotlin", "android", "mobile"],
+    "description": "Kotlin Android engineer. Clean architecture, REST APIs, CI/CD on GitHub Actions, Play Store releases.",
+    "url": "https://example.com/jobs/kite-android",
+    "date": "2026-09-11"
+  },
+  {
+    "title": "React Native Mobile Engineer",
+    "company": "Folio Wallet",
+    "location": "Toronto, Canada",
+    "remote": true,
+    "tags": ["react native", "typescript", "mobile"],
+    "description": "React Native + TypeScript. Talk to Node backends over GraphQL. Fastlane and GitHub Actions for CI/CD.",
+    "url": "https://example.com/jobs/folio-rn",
+    "date": "2026-09-10"
+  },
+  {
+    "title": "Machine Learning Engineer",
+    "company": "Aether Models",
+    "location": "Paris, France",
+    "remote": true,
+    "tags": ["python", "pytorch", "mlops"],
+    "description": "ML engineer training models with PyTorch, pandas and numpy. MLOps on AWS with Docker, Kubernetes and Airflow.",
+    "url": "https://example.com/jobs/aether-ml",
+    "date": "2026-09-20"
+  },
+  {
+    "title": "LLM / RAG Engineer",
+    "company": "Quill Context",
+    "location": "New York, United States",
+    "remote": true,
+    "tags": ["llm", "rag", "python", "langchain"],
+    "description": "Build RAG pipelines with LangChain, OpenAI and Hugging Face. Prompt engineering, vector search, FastAPI services.",
+    "url": "https://example.com/jobs/quill-llm",
+    "date": "2026-09-21"
+  },
+  {
+    "title": "Data Scientist",
+    "company": "Cedar Insights",
+    "location": "Lisbon, Portugal",
+    "remote": true,
+    "tags": ["python", "pandas", "sql"],
+    "description": "Data scientist using Python, pandas, numpy, scikit-learn and SQL. Dashboards in Tableau-adjacent stacks; Snowflake a plus.",
+    "url": "https://example.com/jobs/cedar-ds",
+    "date": "2026-09-09"
+  },
+  {
+    "title": "Data Engineer",
+    "company": "Riverbatch",
+    "location": "Austin, United States",
+    "remote": true,
+    "tags": ["python", "spark", "airflow", "dbt"],
+    "description": "Data engineer. Spark, Airflow, dbt, Kafka, PostgreSQL and Snowflake. SQL every day. Terraform for AWS.",
+    "url": "https://example.com/jobs/riverbatch-de",
+    "date": "2026-09-08"
+  },
+  {
+    "title": "Analytics Engineer",
+    "company": "Nimbus Metrics",
+    "location": "Dublin, Ireland",
+    "remote": true,
+    "tags": ["sql", "dbt", "snowflake"],
+    "description": "Analytics engineer modeling warehouses with dbt and Snowflake. Strong SQL, Git, Agile sprints.",
+    "url": "https://example.com/jobs/nimbus-analytics",
+    "date": "2026-09-07"
+  },
+  {
+    "title": "DevOps / Platform Engineer",
+    "company": "Stacklane",
+    "location": "Zurich, Switzerland",
+    "remote": true,
+    "tags": ["kubernetes", "terraform", "aws", "devops"],
+    "description": "Platform engineer. Kubernetes, Helm, Terraform, AWS, Docker, Prometheus and Grafana. GitHub Actions CI/CD. Linux and bash.",
+    "url": "https://example.com/jobs/stacklane-devops",
+    "date": "2026-09-22"
+  },
+  {
+    "title": "Site Reliability Engineer",
+    "company": "Beacon Cloud",
+    "location": "Singapore",
+    "remote": true,
+    "tags": ["sre", "kubernetes", "go", "linux"],
+    "description": "SRE role. Go tooling, Kubernetes, Terraform, Prometheus, Grafana, Linux. On-call for a multi-region AWS/GCP footprint.",
+    "url": "https://example.com/jobs/beacon-sre",
+    "date": "2026-09-06"
+  },
+  {
+    "title": "QA Automation Engineer",
+    "company": "Glasspath",
+    "location": "Warsaw, Poland",
+    "remote": true,
+    "tags": ["playwright", "typescript", "qa"],
+    "description": "SDET using Playwright and TypeScript. Selenium legacy suite, CI/CD on Jenkins and GitHub Actions, REST API testing.",
+    "url": "https://example.com/jobs/glasspath-qa",
+    "date": "2026-09-05"
+  },
+  {
+    "title": "Product Designer",
+    "company": "Mira Studio",
+    "location": "Buenos Aires, Argentina",
+    "remote": true,
+    "tags": ["figma", "ui/ux", "design"],
+    "description": "Product designer. Figma systems, UX research, pair with frontend engineers on React implementations.",
+    "url": "https://example.com/jobs/mira-design",
+    "date": "2026-09-04"
+  },
+  {
+    "title": "Product Manager, Developer Tools",
+    "company": "Anvil CLI",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["product", "agile", "scrum"],
+    "description": "Technical product manager. Agile/Scrum, work with backend and frontend squads, write specs for APIs and CI/CD flows.",
+    "url": "https://example.com/jobs/anvil-pm",
+    "date": "2026-09-03"
+  },
+  {
+    "title": "Rust Systems Engineer",
+    "company": "Copperwire",
+    "location": "Stockholm, Sweden",
+    "remote": true,
+    "tags": ["rust", "linux", "backend"],
+    "description": "Backend engineer writing Rust services. Linux, gRPC, Redis, Kubernetes. Performance-sensitive networking.",
+    "url": "https://example.com/jobs/copperwire-rust",
+    "date": "2026-09-14"
+  },
+  {
+    "title": "Java Backend Engineer",
+    "company": "Ledgerfield",
+    "location": "Frankfurt, Germany",
+    "remote": false,
+    "tags": ["java", "spring", "kafka", "sql"],
+    "description": "Java engineer. Spring services, Kafka, PostgreSQL, REST APIs, Docker. Scrum team in the office.",
+    "url": "https://example.com/jobs/ledgerfield-java",
+    "date": "2026-09-13"
+  },
+  {
+    "title": ".NET Engineer",
+    "company": "Harborline Insurance",
+    "location": "Chicago, United States",
+    "remote": true,
+    "tags": [".net", "c#", "azure", "sql"],
+    "description": "C# / .NET engineer on Azure. SQL Server and Postgres, REST APIs, CI/CD, Agile delivery.",
+    "url": "https://example.com/jobs/harborline-dotnet",
+    "date": "2026-09-02"
+  },
+  {
+    "title": "PHP Laravel Developer",
+    "company": "Marketstall",
+    "location": "Mexico City, Mexico",
+    "remote": true,
+    "tags": ["php", "laravel", "mysql"],
+    "description": "PHP engineer. Laravel, MySQL, Redis, REST APIs, Linux, Git. Occasional Vue frontend work.",
+    "url": "https://example.com/jobs/marketstall-php",
+    "date": "2026-09-01"
+  },
+  {
+    "title": "Ruby on Rails Engineer",
+    "company": "Sideyard",
+    "location": "Melbourne, Australia",
+    "remote": true,
+    "tags": ["ruby", "rails", "postgres"],
+    "description": "Rails engineer. Ruby, PostgreSQL, Redis, Sidekiq, REST APIs, React snippets, GitHub Actions.",
+    "url": "https://example.com/jobs/sideyard-rails",
+    "date": "2026-08-30"
+  },
+  {
+    "title": "C++ Gameplay Engineer",
+    "company": "Pinebox Games",
+    "location": "Montreal, Canada",
+    "remote": false,
+    "tags": ["c++", "unity", "game"],
+    "description": "Gameplay engineer. C++ and Unity. Work with designers in Figma-adjacent pipelines. Git and Scrum.",
+    "url": "https://example.com/jobs/pinebox-cpp",
+    "date": "2026-08-29"
+  },
+  {
+    "title": "Solidity Smart Contract Engineer",
+    "company": "Openvault DAO",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["solidity", "blockchain", "web3"],
+    "description": "Solidity engineer. Blockchain / web3 protocols, TypeScript tests, Hardhat, security reviews. Some Rust a plus.",
+    "url": "https://example.com/jobs/openvault-solidity",
+    "date": "2026-08-28"
+  },
+  {
+    "title": "Angular Frontend Engineer",
+    "company": "CivicDesk",
+    "location": "Madrid, Spain",
+    "remote": true,
+    "tags": ["angular", "typescript", "rxjs"],
+    "description": "Frontend engineer. Angular, TypeScript, RxJS, REST APIs, CSS, accessibility. Agile squad.",
+    "url": "https://example.com/jobs/civicdesk-angular",
+    "date": "2026-08-27"
+  },
+  {
+    "title": "Vue.js Frontend Engineer",
+    "company": "Fieldnote",
+    "location": "Porto, Portugal",
+    "remote": true,
+    "tags": ["vue", "javascript", "css"],
+    "description": "Frontend engineer. Vue, JavaScript, HTML, CSS. Talks to a Python FastAPI backend. Figma specs.",
+    "url": "https://example.com/jobs/fieldnote-vue",
+    "date": "2026-08-26"
+  },
+  {
+    "title": "NestJS Backend Engineer",
+    "company": "Parcelkit",
+    "location": "Tallinn, Estonia",
+    "remote": true,
+    "tags": ["nestjs", "typescript", "postgres"],
+    "description": "Backend engineer. NestJS, TypeScript, PostgreSQL, Redis, GraphQL and REST APIs. Docker + Kubernetes.",
+    "url": "https://example.com/jobs/parcelkit-nest",
+    "date": "2026-08-25"
+  },
+  {
+    "title": "TensorFlow Engineer",
+    "company": "Visionlot",
+    "location": "Tel Aviv, Israel",
+    "remote": true,
+    "tags": ["tensorflow", "python", "computer vision"],
+    "description": "AI engineer. TensorFlow, Python, numpy, computer vision pipelines. Deploy with Docker on GCP.",
+    "url": "https://example.com/jobs/visionlot-tf",
+    "date": "2026-08-24"
+  },
+  {
+    "title": "MLOps Engineer",
+    "company": "Modelyard",
+    "location": "Seattle, United States",
+    "remote": true,
+    "tags": ["mlops", "python", "kubernetes"],
+    "description": "MLOps engineer. Kubernetes, Terraform, AWS, Airflow, PyTorch model serving, CI/CD, Prometheus.",
+    "url": "https://example.com/jobs/modelyard-mlops",
+    "date": "2026-08-23"
+  },
+  {
+    "title": "Cloud Engineer (Azure)",
+    "company": "Northgate Health",
+    "location": "Manchester, United Kingdom",
+    "remote": true,
+    "tags": ["azure", "terraform", "devops"],
+    "description": "Cloud engineer. Azure, Terraform, Ansible, CI/CD, Linux. Support .NET services and SQL estates.",
+    "url": "https://example.com/jobs/northgate-azure",
+    "date": "2026-08-22"
+  },
+  {
+    "title": "Full-Stack TypeScript Engineer",
+    "company": "Paperplane CRM",
+    "location": "Worldwide",
+    "remote": true,
+    "tags": ["typescript", "node", "react", "graphql"],
+    "description": "Full-stack TypeScript. Node, React, GraphQL, PostgreSQL, Redis, Docker. Scrum team, fully remote.",
+    "url": "https://example.com/jobs/paperplane-ts",
+    "date": "2026-08-21"
+  },
+  {
+    "title": "Backend Engineer — FastAPI",
+    "company": "Siftmail",
+    "location": "Bengaluru, India",
+    "remote": true,
+    "tags": ["python", "fastapi", "postgres"],
+    "description": "Python engineer. FastAPI, PostgreSQL, Redis, Kafka, Docker. REST APIs for an email product.",
+    "url": "https://example.com/jobs/siftmail-fastapi",
+    "date": "2026-08-20"
+  },
+  {
+    "title": "Flask Engineer",
+    "company": "Tinyledger",
+    "location": "Cape Town, South Africa",
+    "remote": true,
+    "tags": ["python", "flask", "sql"],
+    "description": "Python/Flask services, SQL, pandas reports, Linux servers, Git. Small backend team.",
+    "url": "https://example.com/jobs/tinyledger-flask",
+    "date": "2026-08-19"
+  },
+  {
+    "title": "Elasticsearch Engineer",
+    "company": "Findwell Search",
+    "location": "Dublin, Ireland",
+    "remote": true,
+    "tags": ["elasticsearch", "java", "kafka"],
+    "description": "Search engineer. Elasticsearch, Java, Kafka, Kubernetes. Relevance work with Python notebooks.",
+    "url": "https://example.com/jobs/findwell-elastic",
+    "date": "2026-08-18"
+  },
+  {
+    "title": "Svelte Frontend Engineer",
+    "company": "Quietread",
+    "location": "Oslo, Norway",
+    "remote": true,
+    "tags": ["svelte", "javascript", "css"],
+    "description": "Frontend engineer. Svelte / SvelteKit, JavaScript, HTML, CSS. Node tooling, Git, Figma.",
+    "url": "https://example.com/jobs/quietread-svelte",
+    "date": "2026-08-17"
+  },
+  {
+    "title": "Jenkins / CI Engineer",
+    "company": "Buildriver",
+    "location": "Prague, Czechia",
+    "remote": true,
+    "tags": ["jenkins", "ci/cd", "linux"],
+    "description": "DevOps engineer owning Jenkins and GitHub Actions. Docker, Kubernetes, bash, Linux, Terraform.",
+    "url": "https://example.com/jobs/buildriver-ci",
+    "date": "2026-08-16"
+  },
+  {
+    "title": "Prompt Engineer",
+    "company": "Lantern Copy",
+    "location": "Remote",
+    "remote": true,
+    "tags": ["prompt engineering", "openai", "llm"],
+    "description": "Prompt engineering for LLM products. OpenAI APIs, evaluation sets, light Python, LangChain experiments.",
+    "url": "https://example.com/jobs/lantern-prompt",
+    "date": "2026-08-15"
+  },
+  {
+    "title": "Unity Game Developer",
+    "company": "Mossbyte",
+    "location": "Tokyo, Japan",
+    "remote": false,
+    "tags": ["unity", "c#", "game"],
+    "description": "Unity developer. C#, gameplay systems, Git. Ship on mobile and desktop.",
+    "url": "https://example.com/jobs/mossbyte-unity",
+    "date": "2026-08-14"
+  },
+  {
+    "title": "Frontend Engineer — Next.js",
+    "company": "Brightfolio",
+    "location": "Sydney, Australia",
+    "remote": true,
+    "tags": ["next.js", "react", "typescript"],
+    "description": "Frontend engineer. Next.js, React, TypeScript, GraphQL, CSS. Pair with design in Figma.",
+    "url": "https://example.com/jobs/brightfolio-next",
+    "date": "2026-08-13"
+  },
+  {
+    "title": "QA Engineer (Selenium)",
+    "company": "Ticketyard",
+    "location": "Bucharest, Romania",
+    "remote": true,
+    "tags": ["selenium", "java", "qa"],
+    "description": "QA engineer. Selenium, Java, REST API checks, Jenkins CI/CD, Agile/Scrum.",
+    "url": "https://example.com/jobs/ticketyard-qa",
+    "date": "2026-08-12"
+  },
+  {
+    "title": "Backend Engineer — Node.js",
+    "company": "Wavehook",
+    "location": "Lagos, Nigeria",
+    "remote": true,
+    "tags": ["node", "javascript", "mongodb"],
+    "description": "Backend engineer. Node.js, Express, MongoDB, Redis, REST APIs, Docker. Linux basics.",
+    "url": "https://example.com/jobs/wavehook-node",
+    "date": "2026-08-11"
+  }
+]

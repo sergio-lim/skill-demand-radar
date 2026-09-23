@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Skill Demand Radar — 2026-09-23</title>
+  <style>
+    :root {
+      --bg: #070b14;
+      --bg-2: #0c1220;
+      --card: #121a2b;
+      --card-2: #172136;
+      --line: #243049;
+      --text: #e8eef8;
+      --muted: #8b9bb4;
+      --accent: #3ee0b3;
+      --accent-2: #7c9cff;
+      --accent-3: #f5c16c;
+      --down: #ff7b93;
+      --up-bg: rgba(62, 224, 179, 0.12);
+      --down-bg: rgba(255, 123, 147, 0.12);
+      --shadow: 0 18px 50px rgba(0, 0, 0, 0.35);
+      --radius: 18px;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background:
+        radial-gradient(1200px 600px at 10% -10%, rgba(62, 224, 179, 0.10), transparent 50%),
+        radial-gradient(900px 500px at 110% 0%, rgba(124, 156, 255, 0.12), transparent 45%),
+        var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+    }
+    .wrap { max-width: 1120px; margin: 0 auto; padding: 36px 22px 64px; }
+    header.hero {
+      display: flex; flex-wrap: wrap; gap: 18px; justify-content: space-between;
+      align-items: flex-end; margin-bottom: 28px;
+    }
+    .eyebrow {
+      color: var(--accent); letter-spacing: 0.16em; text-transform: uppercase;
+      font-size: 11px; font-weight: 700; margin: 0 0 8px;
+    }
+    h1 {
+      font-size: clamp(28px, 4vw, 42px); line-height: 1.1; margin: 0 0 8px;
+      letter-spacing: -0.03em;
+    }
+    .lede { color: var(--muted); max-width: 560px; margin: 0; line-height: 1.55; }
+    .meta {
+      text-align: right; color: var(--muted); font-size: 13px; line-height: 1.6;
+    }
+    .meta strong { color: var(--text); }
+    .kpis {
+      display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin: 0 0 18px;
+    }
+    .kpi {
+      background: linear-gradient(180deg, var(--card-2), var(--card));
+      border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 18px 18px 16px; box-shadow: var(--shadow);
+    }
+    .kpi .label { color: var(--muted); font-size: 12px; letter-spacing: 0.04em; text-transform: uppercase; }
+    .kpi .value { font-size: 30px; font-weight: 700; letter-spacing: -0.03em; margin: 6px 0 2px; }
+    .kpi .hint { color: var(--muted); font-size: 12px; }
+    .grid { display: grid; grid-template-columns: 1.35fr 0.85fr; gap: 14px; }
+    .card {
+      background: var(--card); border: 1px solid var(--line); border-radius: var(--radius);
+      padding: 22px; box-shadow: var(--shadow);
+    }
+    .card h2 { margin: 0 0 4px; font-size: 18px; letter-spacing: -0.02em; }
+    .sub { color: var(--muted); font-size: 12px; margin: 0 0 16px; }
+    table { width: 100%; border-collapse: collapse; }
+    th {
+      text-align: left; color: var(--muted); font-size: 11px; letter-spacing: 0.08em;
+      text-transform: uppercase; font-weight: 600; padding: 0 8px 10px;
+      border-bottom: 1px solid var(--line);
+    }
+    td { padding: 10px 8px; border-bottom: 1px solid rgba(36, 48, 73, 0.7); font-size: 14px; }
+    tr:last-child td { border-bottom: none; }
+    td.rank { color: var(--muted); width: 28px; }
+    td.skill { font-weight: 600; }
+    td.num { text-align: right; font-variant-numeric: tabular-nums; }
+    .muted { color: var(--muted); }
+    .delta {
+      display: inline-block; min-width: 52px; text-align: center;
+      border-radius: 999px; padding: 2px 8px; font-size: 12px; font-weight: 600;
+    }
+    .delta.up { color: var(--accent); background: var(--up-bg); }
+    .delta.down { color: var(--down); background: var(--down-bg); }
+    .delta.flat { color: var(--muted); background: rgba(139, 155, 180, 0.10); }
+    .bar-row {
+      display: grid; grid-template-columns: 140px 1fr 42px; gap: 10px;
+      align-items: center; margin: 0 0 10px;
+    }
+    .bar-label { font-size: 13px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .bar-track {
+      height: 9px; background: #0d1524; border-radius: 999px; overflow: hidden;
+      border: 1px solid var(--line);
+    }
+    .bar-fill {
+      display: block; height: 100%; border-radius: 999px;
+      background: linear-gradient(90deg, var(--accent-2), var(--accent));
+    }
+    .roles .bar-fill { background: linear-gradient(90deg, #8b7cff, #7c9cff); }
+    .bar-count { text-align: right; font-variant-numeric: tabular-nums; color: var(--muted); font-size: 12px; }
+    .flag {
+      display: inline-block; font-size: 10px; letter-spacing: 0.06em; color: var(--accent-3);
+      border: 1px solid rgba(245, 193, 108, 0.25); border-radius: 4px; padding: 0 4px;
+      margin-right: 2px;
+    }
+    .pills { display: flex; flex-wrap: wrap; gap: 8px; justify-content: flex-end; }
+    .pill {
+      border: 1px solid var(--line); background: #0e1626; color: var(--text);
+      border-radius: 999px; padding: 4px 10px; font-size: 12px;
+    }
+    .warn { border-color: rgba(245, 193, 108, 0.35); }
+    .notes { margin: 8px 0 0; padding-left: 18px; color: var(--accent-3); }
+    footer {
+      margin-top: 22px; color: var(--muted); font-size: 12px; line-height: 1.7;
+      display: flex; flex-wrap: wrap; justify-content: space-between; gap: 10px;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+    footer a:hover { text-decoration: underline; }
+    .stack { display: grid; gap: 14px; }
+    @media (max-width: 860px) {
+      .kpis { grid-template-columns: 1fr 1fr; }
+      .grid { grid-template-columns: 1fr; }
+      .meta, header.hero { text-align: left; }
+    }
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Public labour-market radar</p>
+        <h1>What skills does the market actually want?</h1>
+        <p class="lede">
+          Daily snapshot of tech job posts from public, keyless APIs.
+          Skills are extracted with a transparent keyword taxonomy — no login, no scrape fight.
+        </p>
+      </div>
+      <div class="meta">
+        <div><strong>Updated</strong> 2026-09-23</div>
+        <div>first snapshot — deltas appear tomorrow</div>
+        <div class="pills" style="margin-top:10px"><span class='pill'>arbeitnow</span> <span class='pill'>remoteok</span></div>
+      </div>
+    </header>
+
+    <section class="kpis">
+      <article class="kpi">
+        <div class="label">Open roles</div>
+        <div class="value">143</div>
+        <div class="hint">tech-relevant of 349 fetched</div>
+      </article>
+      <article class="kpi">
+        <div class="label">Skills detected</div>
+        <div class="value">67</div>
+        <div class="hint">of 80 in the taxonomy</div>
+      </article>
+      <article class="kpi">
+        <div class="label">Top skill</div>
+        <div class="value" style="font-size:22px;padding-top:6px">python</div>
+        <div class="hint">28 mentions</div>
+      </article>
+      <article class="kpi">
+        <div class="label">Top role</div>
+        <div class="value" style="font-size:22px;padding-top:6px">devops</div>
+        <div class="hint">28 postings</div>
+      </article>
+    </section>
+
+    
+
+    <div class="grid">
+      <section class="card">
+        <h2>Top 15 skills</h2>
+        <p class="sub">Share is mentions / jobs. A posting can mention several skills.</p>
+        <table>
+          <thead>
+            <tr>
+              <th>#</th>
+              <th>Skill</th>
+              <th style="text-align:right">Count</th>
+              <th style="text-align:right">Share</th>
+              <th>Delta</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr><td class='rank'>1</td><td class='skill'>python</td><td class='num'>28</td><td class='num muted'>20%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>2</td><td class='skill'>kubernetes</td><td class='num'>25</td><td class='num muted'>17%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>3</td><td class='skill'>llm</td><td class='num'>23</td><td class='num muted'>16%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>4</td><td class='skill'>ci/cd</td><td class='num'>20</td><td class='num muted'>14%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>5</td><td class='skill'>aws</td><td class='num'>19</td><td class='num muted'>13%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>6</td><td class='skill'>docker</td><td class='num'>16</td><td class='num muted'>11%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>7</td><td class='skill'>openai</td><td class='num'>15</td><td class='num muted'>10%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>8</td><td class='skill'>sql</td><td class='num'>15</td><td class='num muted'>10%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>9</td><td class='skill'>agile</td><td class='num'>14</td><td class='num muted'>10%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>10</td><td class='skill'>typescript</td><td class='num'>14</td><td class='num muted'>10%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>11</td><td class='skill'>postgres</td><td class='num'>13</td><td class='num muted'>9%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>12</td><td class='skill'>gcp</td><td class='num'>12</td><td class='num muted'>8%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>13</td><td class='skill'>java</td><td class='num'>12</td><td class='num muted'>8%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>14</td><td class='skill'>azure</td><td class='num'>11</td><td class='num muted'>8%</td><td><span class="delta flat">new</span></td></tr>
+<tr><td class='rank'>15</td><td class='skill'>devops</td><td class='num'>10</td><td class='num muted'>7%</td><td><span class="delta flat">new</span></td></tr>
+          </tbody>
+        </table>
+      </section>
+
+      <div class="stack">
+        <section class="card roles">
+          <h2>Roles</h2>
+          <p class="sub">Classified from title, then description.</p>
+          <div class='bar-row'><span class='bar-label'>devops</span><span class='bar-track'><span class='bar-fill' style='width:100.0%'></span></span><span class='bar-count'>28</span></div>
+<div class='bar-row'><span class='bar-label'>ml/ai</span><span class='bar-track'><span class='bar-fill' style='width:100.0%'></span></span><span class='bar-count'>28</span></div>
+<div class='bar-row'><span class='bar-label'>mobile</span><span class='bar-track'><span class='bar-fill' style='width:71.4%'></span></span><span class='bar-count'>20</span></div>
+<div class='bar-row'><span class='bar-label'>backend</span><span class='bar-track'><span class='bar-fill' style='width:60.7%'></span></span><span class='bar-count'>17</span></div>
+<div class='bar-row'><span class='bar-label'>frontend</span><span class='bar-track'><span class='bar-fill' style='width:35.7%'></span></span><span class='bar-count'>10</span></div>
+<div class='bar-row'><span class='bar-label'>fullstack</span><span class='bar-track'><span class='bar-fill' style='width:32.1%'></span></span><span class='bar-count'>9</span></div>
+<div class='bar-row'><span class='bar-label'>product</span><span class='bar-track'><span class='bar-fill' style='width:32.1%'></span></span><span class='bar-count'>9</span></div>
+<div class='bar-row'><span class='bar-label'>data</span><span class='bar-track'><span class='bar-fill' style='width:28.6%'></span></span><span class='bar-count'>8</span></div>
+<div class='bar-row'><span class='bar-label'>design</span><span class='bar-track'><span class='bar-fill' style='width:25.0%'></span></span><span class='bar-count'>7</span></div>
+<div class='bar-row'><span class='bar-label'>qa</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+        </section>
+        <section class="card">
+          <h2>Countries</h2>
+          <p class="sub">Normalized from free-text location. Remote stays Remote.</p>
+          <div class='bar-row'><span class='bar-label'><span class="flag">ANY</span> Remote</span><span class='bar-track'><span class='bar-fill' style='width:100.0%'></span></span><span class='bar-count'>35</span></div>
+<div class='bar-row'><span class='bar-label'><span class="flag">FR</span> France</span><span class='bar-track'><span class='bar-fill' style='width:80.0%'></span></span><span class='bar-count'>28</span></div>
+<div class='bar-row'><span class='bar-label'><span class="flag">UK</span> United Kingdom</span><span class='bar-track'><span class='bar-fill' style='width:80.0%'></span></span><span class='bar-count'>28</span></div>
+<div class='bar-row'><span class='bar-label'><span class="flag">DE</span> Germany</span><span class='bar-track'><span class='bar-fill' style='width:74.3%'></span></span><span class='bar-count'>26</span></div>
+<div class='bar-row'><span class='bar-label'><span class="flag">US</span> United States</span><span class='bar-track'><span class='bar-fill' style='width:22.9%'></span></span><span class='bar-count'>8</span></div>
+<div class='bar-row'><span class='bar-label'>Unknown</span><span class='bar-track'><span class='bar-fill' style='width:11.4%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'><span class="flag">EM</span> EMEA</span><span class='bar-track'><span class='bar-fill' style='width:5.7%'></span></span><span class='bar-count'>2</span></div>
+<div class='bar-row'><span class='bar-label'>Hybrid</span><span class='bar-track'><span class='bar-fill' style='width:5.7%'></span></span><span class='bar-count'>2</span></div>
+<div class='bar-row'><span class='bar-label'><span class="flag">IN</span> India</span><span class='bar-track'><span class='bar-fill' style='width:5.7%'></span></span><span class='bar-count'>2</span></div>
+<div class='bar-row'><span class='bar-label'><span class="flag">AU</span> Australia</span><span class='bar-track'><span class='bar-fill' style='width:4.0%'></span></span><span class='bar-count'>1</span></div>
+        </section>
+      </div>
+    </div>
+
+    <section class="card" style="margin-top:14px">
+      <h2>Demand bars — full skill list</h2>
+      <p class="sub">Every skill that appeared at least once, scaled to the current leader (python).</p>
+      <div class='bar-row'><span class='bar-label'>python</span><span class='bar-track'><span class='bar-fill' style='width:100.0%'></span></span><span class='bar-count'>28</span></div>
+<div class='bar-row'><span class='bar-label'>kubernetes</span><span class='bar-track'><span class='bar-fill' style='width:89.3%'></span></span><span class='bar-count'>25</span></div>
+<div class='bar-row'><span class='bar-label'>llm</span><span class='bar-track'><span class='bar-fill' style='width:82.1%'></span></span><span class='bar-count'>23</span></div>
+<div class='bar-row'><span class='bar-label'>ci/cd</span><span class='bar-track'><span class='bar-fill' style='width:71.4%'></span></span><span class='bar-count'>20</span></div>
+<div class='bar-row'><span class='bar-label'>aws</span><span class='bar-track'><span class='bar-fill' style='width:67.9%'></span></span><span class='bar-count'>19</span></div>
+<div class='bar-row'><span class='bar-label'>docker</span><span class='bar-track'><span class='bar-fill' style='width:57.1%'></span></span><span class='bar-count'>16</span></div>
+<div class='bar-row'><span class='bar-label'>openai</span><span class='bar-track'><span class='bar-fill' style='width:53.6%'></span></span><span class='bar-count'>15</span></div>
+<div class='bar-row'><span class='bar-label'>sql</span><span class='bar-track'><span class='bar-fill' style='width:53.6%'></span></span><span class='bar-count'>15</span></div>
+<div class='bar-row'><span class='bar-label'>agile</span><span class='bar-track'><span class='bar-fill' style='width:50.0%'></span></span><span class='bar-count'>14</span></div>
+<div class='bar-row'><span class='bar-label'>typescript</span><span class='bar-track'><span class='bar-fill' style='width:50.0%'></span></span><span class='bar-count'>14</span></div>
+<div class='bar-row'><span class='bar-label'>postgres</span><span class='bar-track'><span class='bar-fill' style='width:46.4%'></span></span><span class='bar-count'>13</span></div>
+<div class='bar-row'><span class='bar-label'>gcp</span><span class='bar-track'><span class='bar-fill' style='width:42.9%'></span></span><span class='bar-count'>12</span></div>
+<div class='bar-row'><span class='bar-label'>java</span><span class='bar-track'><span class='bar-fill' style='width:42.9%'></span></span><span class='bar-count'>12</span></div>
+<div class='bar-row'><span class='bar-label'>azure</span><span class='bar-track'><span class='bar-fill' style='width:39.3%'></span></span><span class='bar-count'>11</span></div>
+<div class='bar-row'><span class='bar-label'>devops</span><span class='bar-track'><span class='bar-fill' style='width:35.7%'></span></span><span class='bar-count'>10</span></div>
+<div class='bar-row'><span class='bar-label'>figma</span><span class='bar-track'><span class='bar-fill' style='width:35.7%'></span></span><span class='bar-count'>10</span></div>
+<div class='bar-row'><span class='bar-label'>react</span><span class='bar-track'><span class='bar-fill' style='width:35.7%'></span></span><span class='bar-count'>10</span></div>
+<div class='bar-row'><span class='bar-label'>terraform</span><span class='bar-track'><span class='bar-fill' style='width:35.7%'></span></span><span class='bar-count'>10</span></div>
+<div class='bar-row'><span class='bar-label'>git</span><span class='bar-track'><span class='bar-fill' style='width:32.1%'></span></span><span class='bar-count'>9</span></div>
+<div class='bar-row'><span class='bar-label'>kotlin</span><span class='bar-track'><span class='bar-fill' style='width:25.0%'></span></span><span class='bar-count'>7</span></div>
+<div class='bar-row'><span class='bar-label'>node</span><span class='bar-track'><span class='bar-fill' style='width:25.0%'></span></span><span class='bar-count'>7</span></div>
+<div class='bar-row'><span class='bar-label'>github actions</span><span class='bar-track'><span class='bar-fill' style='width:21.4%'></span></span><span class='bar-count'>6</span></div>
+<div class='bar-row'><span class='bar-label'>grafana</span><span class='bar-track'><span class='bar-fill' style='width:21.4%'></span></span><span class='bar-count'>6</span></div>
+<div class='bar-row'><span class='bar-label'>go</span><span class='bar-track'><span class='bar-fill' style='width:17.9%'></span></span><span class='bar-count'>5</span></div>
+<div class='bar-row'><span class='bar-label'>huggingface</span><span class='bar-track'><span class='bar-fill' style='width:17.9%'></span></span><span class='bar-count'>5</span></div>
+<div class='bar-row'><span class='bar-label'>kafka</span><span class='bar-track'><span class='bar-fill' style='width:17.9%'></span></span><span class='bar-count'>5</span></div>
+<div class='bar-row'><span class='bar-label'>rag</span><span class='bar-track'><span class='bar-fill' style='width:17.9%'></span></span><span class='bar-count'>5</span></div>
+<div class='bar-row'><span class='bar-label'>css</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>javascript</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>linux</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>mlops</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>rest</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>rust</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>snowflake</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>spark</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>vue</span><span class='bar-track'><span class='bar-fill' style='width:14.3%'></span></span><span class='bar-count'>4</span></div>
+<div class='bar-row'><span class='bar-label'>angular</span><span class='bar-track'><span class='bar-fill' style='width:10.7%'></span></span><span class='bar-count'>3</span></div>
+<div class='bar-row'><span class='bar-label'>dbt</span><span class='bar-track'><span class='bar-fill' style='width:10.7%'></span></span><span class='bar-count'>3</span></div>
+<div class='bar-row'><span class='bar-label'>elasticsearch</span><span class='bar-track'><span class='bar-fill' style='width:10.7%'></span></span><span class='bar-count'>3</span></div>
+<div class='bar-row'><span class='bar-label'>fastapi</span><span class='bar-track'><span class='bar-fill' style='width:10.7%'></span></span><span class='bar-count'>3</span></div>
+    </section>
+
+    <footer>
+      <div>
+        Job data from <a href="https://remoteok.com">Remote OK</a>
+        and <a href="https://www.arbeitnow.com">Arbeitnow</a>.<br>
+        Keyword taxonomy — implicit skills are under-counted. Remote boards bias the sample.
+      </div>
+      <div>Skill Demand Radar · MIT · 2026-09-23</div>
+    </footer>
+  </div>
+</body>
+</html>
