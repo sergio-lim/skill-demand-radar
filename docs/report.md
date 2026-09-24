@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-09-23
+# Skill Demand Radar — 2026-09-24
 
-- Jobs: **143**
+- Jobs: **153**
 - Sources: arbeitnow, remoteok
-- Compared with: none (first snapshot)
+- Compared with: 2026-09-23
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 28 | 20% | new |
-| 2 | kubernetes | 25 | 17% | new |
-| 3 | llm | 23 | 16% | new |
-| 4 | ci/cd | 20 | 14% | new |
-| 5 | aws | 19 | 13% | new |
-| 6 | docker | 16 | 11% | new |
-| 7 | openai | 15 | 10% | new |
-| 8 | sql | 15 | 10% | new |
-| 9 | agile | 14 | 10% | new |
-| 10 | typescript | 14 | 10% | new |
-| 11 | postgres | 13 | 9% | new |
-| 12 | gcp | 12 | 8% | new |
-| 13 | java | 12 | 8% | new |
-| 14 | azure | 11 | 8% | new |
-| 15 | devops | 10 | 7% | new |
+| 1 | python | 47 | 31% | ↑ 19 |
+| 2 | aws | 28 | 18% | ↑ 9 |
+| 3 | llm | 25 | 16% | ↑ 2 |
+| 4 | ci/cd | 23 | 15% | ↑ 3 |
+| 5 | kubernetes | 22 | 14% | ↓ 3 |
+| 6 | typescript | 20 | 13% | ↑ 6 |
+| 7 | sql | 19 | 12% | ↑ 4 |
+| 8 | docker | 15 | 10% | ↓ 1 |
+| 9 | gcp | 14 | 9% | ↑ 2 |
+| 10 | java | 12 | 8% | → 0 |
+| 11 | postgres | 12 | 8% | ↓ 1 |
+| 12 | react | 12 | 8% | ↑ 2 |
+| 13 | azure | 11 | 7% | → 0 |
+| 14 | devops | 11 | 7% | ↑ 1 |
+| 15 | openai | 11 | 7% | ↓ 4 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 28 |
-| ml/ai | 28 |
+| ml/ai | 27 |
+| backend | 25 |
+| devops | 20 |
 | mobile | 20 |
-| backend | 17 |
-| frontend | 10 |
+| data | 17 |
+| design | 13 |
 | fullstack | 9 |
-| product | 9 |
-| data | 8 |
-| design | 7 |
-| qa | 4 |
+| product | 8 |
+| qa | 6 |
+| frontend | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 35 |
-| France | 28 |
-| United Kingdom | 28 |
-| Germany | 26 |
+| Remote | 40 |
+| Germany | 32 |
+| France | 30 |
+| United Kingdom | 14 |
 | United States | 8 |
-| Unknown | 4 |
-| EMEA | 2 |
+| Nord | 4 |
 | Hybrid | 2 |
 | India | 2 |
-| Australia | 1 |
+| Karlsruhe | 2 |
+| Sobernheim | 2 |
 
 ---
 
