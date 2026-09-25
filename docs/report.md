@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-09-24
+# Skill Demand Radar — 2026-09-25
 
-- Jobs: **153**
+- Jobs: **158**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-09-23
+- Compared with: 2026-09-24
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 47 | 31% | ↑ 19 |
-| 2 | aws | 28 | 18% | ↑ 9 |
-| 3 | llm | 25 | 16% | ↑ 2 |
-| 4 | ci/cd | 23 | 15% | ↑ 3 |
-| 5 | kubernetes | 22 | 14% | ↓ 3 |
-| 6 | typescript | 20 | 13% | ↑ 6 |
-| 7 | sql | 19 | 12% | ↑ 4 |
-| 8 | docker | 15 | 10% | ↓ 1 |
-| 9 | gcp | 14 | 9% | ↑ 2 |
-| 10 | java | 12 | 8% | → 0 |
-| 11 | postgres | 12 | 8% | ↓ 1 |
-| 12 | react | 12 | 8% | ↑ 2 |
-| 13 | azure | 11 | 7% | → 0 |
-| 14 | devops | 11 | 7% | ↑ 1 |
-| 15 | openai | 11 | 7% | ↓ 4 |
+| 1 | python | 30 | 19% | ↓ 17 |
+| 2 | llm | 23 | 15% | ↓ 2 |
+| 3 | kubernetes | 21 | 13% | ↓ 1 |
+| 4 | aws | 19 | 12% | ↓ 9 |
+| 5 | sql | 19 | 12% | → 0 |
+| 6 | typescript | 16 | 10% | ↓ 4 |
+| 7 | azure | 14 | 9% | ↑ 3 |
+| 8 | react | 14 | 9% | ↑ 2 |
+| 9 | gcp | 13 | 8% | ↓ 1 |
+| 10 | agile | 12 | 8% | ↑ 3 |
+| 11 | ci/cd | 11 | 7% | ↓ 12 |
+| 12 | java | 11 | 7% | ↓ 1 |
+| 13 | devops | 10 | 6% | ↓ 1 |
+| 14 | terraform | 9 | 6% | ↓ 2 |
+| 15 | docker | 7 | 4% | ↓ 8 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 27 |
-| backend | 25 |
-| devops | 20 |
-| mobile | 20 |
-| data | 17 |
-| design | 13 |
-| fullstack | 9 |
-| product | 8 |
-| qa | 6 |
-| frontend | 5 |
+| ml/ai | 31 |
+| backend | 28 |
+| devops | 22 |
+| product | 14 |
+| mobile | 13 |
+| data | 12 |
+| fullstack | 11 |
+| frontend | 9 |
+| design | 6 |
+| other | 6 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 40 |
-| Germany | 32 |
-| France | 30 |
-| United Kingdom | 14 |
+| Remote | 30 |
+| United Kingdom | 29 |
+| France | 25 |
+| Germany | 19 |
 | United States | 8 |
-| Nord | 4 |
-| Hybrid | 2 |
+| Unknown | 8 |
+| Hybrid | 4 |
 | India | 2 |
-| Karlsruhe | 2 |
-| Sobernheim | 2 |
+| Pfaffenhofen An Der Ilm | 2 |
+| Australia | 1 |
 
 ---
 
