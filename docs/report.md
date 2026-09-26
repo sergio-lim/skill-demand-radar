@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-09-25
+# Skill Demand Radar — 2026-09-26
 
-- Jobs: **158**
+- Jobs: **179**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-09-24
+- Compared with: 2026-09-25
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 30 | 19% | ↓ 17 |
-| 2 | llm | 23 | 15% | ↓ 2 |
-| 3 | kubernetes | 21 | 13% | ↓ 1 |
-| 4 | aws | 19 | 12% | ↓ 9 |
-| 5 | sql | 19 | 12% | → 0 |
-| 6 | typescript | 16 | 10% | ↓ 4 |
-| 7 | azure | 14 | 9% | ↑ 3 |
-| 8 | react | 14 | 9% | ↑ 2 |
-| 9 | gcp | 13 | 8% | ↓ 1 |
-| 10 | agile | 12 | 8% | ↑ 3 |
-| 11 | ci/cd | 11 | 7% | ↓ 12 |
-| 12 | java | 11 | 7% | ↓ 1 |
-| 13 | devops | 10 | 6% | ↓ 1 |
-| 14 | terraform | 9 | 6% | ↓ 2 |
-| 15 | docker | 7 | 4% | ↓ 8 |
+| 1 | llm | 31 | 17% | ↑ 8 |
+| 2 | python | 31 | 17% | ↑ 1 |
+| 3 | sql | 25 | 14% | ↑ 6 |
+| 4 | kubernetes | 24 | 13% | ↑ 3 |
+| 5 | typescript | 21 | 12% | ↑ 5 |
+| 6 | aws | 18 | 10% | ↓ 1 |
+| 7 | agile | 16 | 9% | ↑ 4 |
+| 8 | docker | 16 | 9% | ↑ 9 |
+| 9 | figma | 14 | 8% | ↑ 9 |
+| 10 | java | 14 | 8% | ↑ 3 |
+| 11 | react | 14 | 8% | → 0 |
+| 12 | ci/cd | 13 | 7% | ↑ 2 |
+| 13 | git | 13 | 7% | ↑ 6 |
+| 14 | postgres | 12 | 7% | ↑ 5 |
+| 15 | azure | 11 | 6% | ↓ 3 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 31 |
-| backend | 28 |
-| devops | 22 |
-| product | 14 |
-| mobile | 13 |
+| ml/ai | 40 |
+| devops | 25 |
+| backend | 20 |
+| fullstack | 18 |
+| mobile | 16 |
+| design | 15 |
+| product | 15 |
 | data | 12 |
-| fullstack | 11 |
-| frontend | 9 |
-| design | 6 |
-| other | 6 |
+| frontend | 11 |
+| qa | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 30 |
-| United Kingdom | 29 |
-| France | 25 |
-| Germany | 19 |
+| Remote | 41 |
+| United Kingdom | 37 |
+| Germany | 32 |
+| France | 22 |
 | United States | 8 |
-| Unknown | 8 |
-| Hybrid | 4 |
+| Unknown | 5 |
+| Australia | 3 |
+| Nord | 3 |
+| Hybrid | 2 |
 | India | 2 |
-| Pfaffenhofen An Der Ilm | 2 |
-| Australia | 1 |
 
 ---
 
