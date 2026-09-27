@@ -1,57 +1,57 @@
-# Skill Demand Radar — 2026-09-26
+# Skill Demand Radar — 2026-09-27
 
-- Jobs: **179**
+- Jobs: **208**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-09-25
+- Compared with: 2026-09-26
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | llm | 31 | 17% | ↑ 8 |
-| 2 | python | 31 | 17% | ↑ 1 |
-| 3 | sql | 25 | 14% | ↑ 6 |
-| 4 | kubernetes | 24 | 13% | ↑ 3 |
-| 5 | typescript | 21 | 12% | ↑ 5 |
-| 6 | aws | 18 | 10% | ↓ 1 |
-| 7 | agile | 16 | 9% | ↑ 4 |
-| 8 | docker | 16 | 9% | ↑ 9 |
-| 9 | figma | 14 | 8% | ↑ 9 |
-| 10 | java | 14 | 8% | ↑ 3 |
-| 11 | react | 14 | 8% | → 0 |
-| 12 | ci/cd | 13 | 7% | ↑ 2 |
-| 13 | git | 13 | 7% | ↑ 6 |
-| 14 | postgres | 12 | 7% | ↑ 5 |
-| 15 | azure | 11 | 6% | ↓ 3 |
+| 1 | python | 63 | 30% | ↑ 32 |
+| 2 | ci/cd | 29 | 14% | ↑ 16 |
+| 3 | kubernetes | 29 | 14% | ↑ 5 |
+| 4 | gcp | 27 | 13% | ↑ 16 |
+| 5 | aws | 26 | 12% | ↑ 8 |
+| 6 | typescript | 26 | 12% | ↑ 5 |
+| 7 | c++ | 25 | 12% | ↑ 21 |
+| 8 | sql | 25 | 12% | → 0 |
+| 9 | llm | 21 | 10% | ↓ 10 |
+| 10 | linux | 20 | 10% | ↑ 16 |
+| 11 | rust | 19 | 9% | ↑ 18 |
+| 12 | docker | 18 | 9% | ↑ 2 |
+| 13 | terraform | 18 | 9% | ↑ 10 |
+| 14 | git | 17 | 8% | ↑ 4 |
+| 15 | react | 17 | 8% | ↑ 3 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 40 |
-| devops | 25 |
-| backend | 20 |
-| fullstack | 18 |
-| mobile | 16 |
-| design | 15 |
+| ml/ai | 46 |
+| backend | 29 |
+| devops | 28 |
+| data | 26 |
+| mobile | 23 |
+| fullstack | 20 |
 | product | 15 |
-| data | 12 |
-| frontend | 11 |
-| qa | 5 |
+| design | 10 |
+| frontend | 7 |
+| other | 2 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 41 |
+| Remote | 39 |
 | United Kingdom | 37 |
-| Germany | 32 |
-| France | 22 |
-| United States | 8 |
+| France | 35 |
+| Germany | 35 |
+| Switzerland | 19 |
+| United States | 10 |
+| Saint-Sulpice | 5 |
 | Unknown | 5 |
-| Australia | 3 |
-| Nord | 3 |
-| Hybrid | 2 |
+| EMEA | 2 |
 | India | 2 |
 
 ---
