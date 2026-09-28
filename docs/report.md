@@ -1,57 +1,57 @@
-# Skill Demand Radar — 2026-09-27
+# Skill Demand Radar — 2026-09-28
 
-- Jobs: **208**
+- Jobs: **198**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-09-26
+- Compared with: 2026-09-27
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 63 | 30% | ↑ 32 |
-| 2 | ci/cd | 29 | 14% | ↑ 16 |
-| 3 | kubernetes | 29 | 14% | ↑ 5 |
-| 4 | gcp | 27 | 13% | ↑ 16 |
-| 5 | aws | 26 | 12% | ↑ 8 |
-| 6 | typescript | 26 | 12% | ↑ 5 |
-| 7 | c++ | 25 | 12% | ↑ 21 |
-| 8 | sql | 25 | 12% | → 0 |
-| 9 | llm | 21 | 10% | ↓ 10 |
-| 10 | linux | 20 | 10% | ↑ 16 |
-| 11 | rust | 19 | 9% | ↑ 18 |
-| 12 | docker | 18 | 9% | ↑ 2 |
-| 13 | terraform | 18 | 9% | ↑ 10 |
-| 14 | git | 17 | 8% | ↑ 4 |
-| 15 | react | 17 | 8% | ↑ 3 |
+| 1 | python | 49 | 25% | ↓ 14 |
+| 2 | aws | 40 | 20% | ↑ 14 |
+| 3 | llm | 32 | 16% | ↑ 11 |
+| 4 | sql | 28 | 14% | ↑ 3 |
+| 5 | gcp | 26 | 13% | ↓ 1 |
+| 6 | kubernetes | 24 | 12% | ↓ 5 |
+| 7 | typescript | 24 | 12% | ↓ 2 |
+| 8 | ci/cd | 23 | 12% | ↓ 6 |
+| 9 | azure | 21 | 11% | ↑ 8 |
+| 10 | react | 19 | 10% | ↑ 2 |
+| 11 | javascript | 18 | 9% | ↑ 15 |
+| 12 | docker | 16 | 8% | ↓ 2 |
+| 13 | node | 16 | 8% | ↑ 1 |
+| 14 | agile | 15 | 8% | ↑ 4 |
+| 15 | java | 14 | 7% | ↑ 4 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
 | ml/ai | 46 |
-| backend | 29 |
-| devops | 28 |
-| data | 26 |
-| mobile | 23 |
-| fullstack | 20 |
-| product | 15 |
+| backend | 39 |
+| devops | 22 |
+| fullstack | 19 |
+| mobile | 16 |
+| data | 14 |
+| product | 12 |
 | design | 10 |
-| frontend | 7 |
-| other | 2 |
+| other | 9 |
+| frontend | 6 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 39 |
-| United Kingdom | 37 |
-| France | 35 |
-| Germany | 35 |
-| Switzerland | 19 |
-| United States | 10 |
-| Saint-Sulpice | 5 |
-| Unknown | 5 |
-| EMEA | 2 |
+| Remote | 37 |
+| France | 30 |
+| Germany | 25 |
+| United Kingdom | 24 |
+| Unknown | 24 |
+| Switzerland | 22 |
+| United States | 8 |
+| Schweiz | 4 |
+| Cambridge | 3 |
 | India | 2 |
 
 ---
