@@ -1,57 +1,57 @@
-# Skill Demand Radar — 2026-09-29
+# Skill Demand Radar — 2026-09-30
 
-- Jobs: **229**
+- Jobs: **226**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-09-28
+- Compared with: 2026-09-29
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 80 | 35% | ↑ 31 |
-| 2 | aws | 39 | 17% | ↓ 1 |
-| 3 | llm | 37 | 16% | ↑ 5 |
-| 4 | ci/cd | 35 | 15% | ↑ 12 |
-| 5 | sql | 28 | 12% | → 0 |
-| 6 | typescript | 27 | 12% | ↑ 3 |
-| 7 | c++ | 26 | 11% | ↑ 13 |
-| 8 | gcp | 25 | 11% | ↓ 1 |
-| 9 | kubernetes | 24 | 10% | → 0 |
-| 10 | azure | 19 | 8% | ↓ 2 |
-| 11 | java | 18 | 8% | ↑ 4 |
-| 12 | react | 18 | 8% | ↓ 1 |
-| 13 | agile | 15 | 7% | → 0 |
-| 14 | devops | 15 | 7% | ↑ 6 |
-| 15 | node | 15 | 7% | ↓ 1 |
+| 1 | python | 61 | 27% | ↓ 19 |
+| 2 | llm | 42 | 19% | ↑ 5 |
+| 3 | aws | 35 | 15% | ↓ 4 |
+| 4 | ci/cd | 33 | 15% | ↓ 2 |
+| 5 | azure | 29 | 13% | ↑ 10 |
+| 6 | sql | 26 | 12% | ↓ 2 |
+| 7 | typescript | 26 | 12% | ↓ 1 |
+| 8 | kubernetes | 24 | 11% | → 0 |
+| 9 | gcp | 23 | 10% | ↓ 2 |
+| 10 | java | 22 | 10% | ↑ 4 |
+| 11 | agile | 21 | 9% | ↑ 6 |
+| 12 | react | 21 | 9% | ↑ 3 |
+| 13 | c++ | 19 | 8% | ↓ 7 |
+| 14 | terraform | 18 | 8% | ↑ 7 |
+| 15 | docker | 16 | 7% | ↑ 2 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| backend | 49 |
-| ml/ai | 47 |
-| devops | 24 |
-| fullstack | 22 |
-| mobile | 21 |
-| data | 18 |
-| product | 18 |
-| design | 11 |
-| qa | 7 |
-| frontend | 6 |
+| ml/ai | 50 |
+| devops | 40 |
+| backend | 35 |
+| fullstack | 23 |
+| data | 17 |
+| mobile | 17 |
+| frontend | 13 |
+| product | 11 |
+| design | 10 |
+| other | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Germany | 45 |
-| Switzerland | 36 |
-| Remote | 35 |
-| France | 29 |
-| United Kingdom | 24 |
-| Unknown | 12 |
-| Cambridge | 8 |
-| United States | 8 |
-| Mainz | 3 |
+| Remote | 41 |
+| United Kingdom | 34 |
+| Switzerland | 32 |
+| Germany | 31 |
+| France | 30 |
+| Unknown | 9 |
+| United States | 7 |
+| Europe | 4 |
+| Hybrid | 4 |
 | Zug | 3 |
 
 ---
