@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-07
+# Skill Demand Radar — 2026-10-08
 
-- Jobs: **206**
+- Jobs: **208**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-06
+- Compared with: 2026-10-07
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 59 | 29% | ↑ 12 |
-| 2 | llm | 30 | 15% | ↑ 2 |
-| 3 | sql | 28 | 14% | ↑ 6 |
-| 4 | c++ | 25 | 12% | ↑ 13 |
-| 5 | agile | 23 | 11% | ↑ 5 |
-| 6 | typescript | 23 | 11% | ↑ 4 |
-| 7 | azure | 22 | 11% | ↑ 8 |
-| 8 | ci/cd | 20 | 10% | → 0 |
-| 9 | devops | 19 | 9% | ↑ 6 |
-| 10 | git | 18 | 9% | ↑ 4 |
-| 11 | gcp | 17 | 8% | ↑ 10 |
-| 12 | kubernetes | 17 | 8% | ↓ 4 |
-| 13 | node | 17 | 8% | ↓ 3 |
-| 14 | react | 16 | 8% | ↓ 4 |
-| 15 | docker | 14 | 7% | → 0 |
+| 1 | python | 70 | 34% | ↑ 11 |
+| 2 | ci/cd | 26 | 12% | ↑ 6 |
+| 3 | kubernetes | 26 | 12% | ↑ 9 |
+| 4 | agile | 24 | 12% | ↑ 1 |
+| 5 | c++ | 23 | 11% | ↓ 2 |
+| 6 | sql | 23 | 11% | ↓ 5 |
+| 7 | aws | 20 | 10% | ↑ 7 |
+| 8 | llm | 20 | 10% | ↓ 10 |
+| 9 | react | 20 | 10% | ↑ 4 |
+| 10 | typescript | 20 | 10% | ↓ 3 |
+| 11 | devops | 18 | 9% | ↓ 1 |
+| 12 | java | 18 | 9% | ↑ 8 |
+| 13 | linux | 17 | 8% | ↑ 6 |
+| 14 | azure | 16 | 8% | ↓ 6 |
+| 15 | gcp | 16 | 8% | ↓ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 58 |
-| backend | 33 |
-| devops | 26 |
-| mobile | 19 |
-| data | 15 |
-| product | 14 |
-| frontend | 13 |
-| fullstack | 12 |
-| design | 9 |
-| qa | 4 |
+| ml/ai | 42 |
+| backend | 32 |
+| devops | 31 |
+| mobile | 23 |
+| fullstack | 22 |
+| design | 13 |
+| product | 13 |
+| data | 11 |
+| frontend | 10 |
+| qa | 6 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 38 |
-| Switzerland | 34 |
-| Germany | 33 |
-| United Kingdom | 28 |
-| France | 24 |
-| Unknown | 13 |
-| United States | 8 |
-| Hybrid | 4 |
-| Lausanne | 4 |
-| Australia | 2 |
+| Remote | 44 |
+| Switzerland | 29 |
+| France | 27 |
+| Germany | 26 |
+| United Kingdom | 26 |
+| United States | 7 |
+| Unknown | 7 |
+| Steinhausen | 4 |
+| Europe | 3 |
+| Hybrid | 3 |
 
 ---
 
