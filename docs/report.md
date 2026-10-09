@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-08
+# Skill Demand Radar — 2026-10-09
 
-- Jobs: **208**
+- Jobs: **191**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-07
+- Compared with: 2026-10-08
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 70 | 34% | ↑ 11 |
-| 2 | ci/cd | 26 | 12% | ↑ 6 |
-| 3 | kubernetes | 26 | 12% | ↑ 9 |
-| 4 | agile | 24 | 12% | ↑ 1 |
-| 5 | c++ | 23 | 11% | ↓ 2 |
-| 6 | sql | 23 | 11% | ↓ 5 |
-| 7 | aws | 20 | 10% | ↑ 7 |
-| 8 | llm | 20 | 10% | ↓ 10 |
-| 9 | react | 20 | 10% | ↑ 4 |
-| 10 | typescript | 20 | 10% | ↓ 3 |
-| 11 | devops | 18 | 9% | ↓ 1 |
-| 12 | java | 18 | 9% | ↑ 8 |
-| 13 | linux | 17 | 8% | ↑ 6 |
-| 14 | azure | 16 | 8% | ↓ 6 |
-| 15 | gcp | 16 | 8% | ↓ 1 |
+| 1 | python | 51 | 27% | ↓ 19 |
+| 2 | aws | 26 | 14% | ↑ 6 |
+| 3 | llm | 26 | 14% | ↑ 6 |
+| 4 | sql | 24 | 13% | ↑ 1 |
+| 5 | typescript | 24 | 13% | ↑ 4 |
+| 6 | kubernetes | 23 | 12% | ↓ 3 |
+| 7 | azure | 21 | 11% | ↑ 5 |
+| 8 | gcp | 20 | 10% | ↑ 4 |
+| 9 | ci/cd | 18 | 9% | ↓ 8 |
+| 10 | devops | 18 | 9% | → 0 |
+| 11 | agile | 17 | 9% | ↓ 7 |
+| 12 | c++ | 17 | 9% | ↓ 6 |
+| 13 | node | 16 | 8% | ↑ 4 |
+| 14 | react | 16 | 8% | ↓ 4 |
+| 15 | terraform | 15 | 8% | ↓ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 42 |
-| backend | 32 |
-| devops | 31 |
-| mobile | 23 |
+| ml/ai | 45 |
+| backend | 26 |
+| devops | 24 |
 | fullstack | 22 |
-| design | 13 |
-| product | 13 |
-| data | 11 |
-| frontend | 10 |
-| qa | 6 |
+| mobile | 21 |
+| design | 14 |
+| data | 10 |
+| frontend | 9 |
+| other | 8 |
+| product | 8 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 44 |
-| Switzerland | 29 |
-| France | 27 |
-| Germany | 26 |
-| United Kingdom | 26 |
+| Remote | 47 |
+| United Kingdom | 32 |
+| France | 25 |
+| Germany | 21 |
+| Switzerland | 17 |
 | United States | 7 |
-| Unknown | 7 |
+| Lausanne | 4 |
 | Steinhausen | 4 |
-| Europe | 3 |
 | Hybrid | 3 |
+| Karlsruhe | 3 |
 
 ---
 
