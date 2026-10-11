@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-10
+# Skill Demand Radar — 2026-10-11
 
-- Jobs: **204**
+- Jobs: **205**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-09
+- Compared with: 2026-10-10
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 63 | 31% | ↑ 12 |
-| 2 | llm | 42 | 21% | ↑ 16 |
-| 3 | kubernetes | 35 | 17% | ↑ 12 |
-| 4 | aws | 33 | 16% | ↑ 7 |
-| 5 | ci/cd | 31 | 15% | ↑ 13 |
-| 6 | typescript | 26 | 13% | ↑ 2 |
-| 7 | sql | 25 | 12% | ↑ 1 |
-| 8 | java | 19 | 9% | ↑ 9 |
-| 9 | react | 19 | 9% | ↑ 3 |
-| 10 | terraform | 19 | 9% | ↑ 4 |
-| 11 | devops | 16 | 8% | ↓ 2 |
-| 12 | postgres | 16 | 8% | ↑ 3 |
-| 13 | c++ | 15 | 7% | ↓ 2 |
-| 14 | kafka | 15 | 7% | ↑ 15 |
-| 15 | node | 15 | 7% | ↓ 1 |
+| 1 | python | 60 | 29% | ↓ 3 |
+| 2 | llm | 44 | 21% | ↑ 2 |
+| 3 | sql | 35 | 17% | ↑ 10 |
+| 4 | aws | 32 | 16% | ↓ 1 |
+| 5 | typescript | 29 | 14% | ↑ 3 |
+| 6 | kubernetes | 25 | 12% | ↓ 10 |
+| 7 | ci/cd | 23 | 11% | ↓ 8 |
+| 8 | docker | 21 | 10% | ↑ 7 |
+| 9 | react | 18 | 9% | ↓ 1 |
+| 10 | azure | 16 | 8% | ↑ 6 |
+| 11 | node | 16 | 8% | ↑ 1 |
+| 12 | devops | 15 | 7% | ↓ 1 |
+| 13 | git | 15 | 7% | ↑ 7 |
+| 14 | java | 15 | 7% | ↓ 4 |
+| 15 | postgres | 15 | 7% | ↓ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 47 |
-| devops | 35 |
-| backend | 24 |
-| fullstack | 23 |
-| product | 18 |
-| data | 16 |
-| mobile | 15 |
-| frontend | 9 |
-| design | 8 |
-| other | 6 |
+| devops | 44 |
+| ml/ai | 38 |
+| fullstack | 29 |
+| backend | 23 |
+| data | 15 |
+| product | 14 |
+| mobile | 12 |
+| qa | 9 |
+| other | 8 |
+| frontend | 7 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 51 |
-| United Kingdom | 32 |
-| Germany | 31 |
-| France | 26 |
-| Switzerland | 14 |
+| Remote | 44 |
+| Germany | 35 |
+| United Kingdom | 34 |
+| France | 29 |
+| Switzerland | 17 |
 | United States | 7 |
 | Unknown | 7 |
 | Schweiz | 4 |
-| Cambridge | 2 |
-| Hybrid | 2 |
+| Ebersberg | 3 |
+| Hybrid | 3 |
 
 ---
 
