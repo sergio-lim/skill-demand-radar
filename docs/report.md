@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-11
+# Skill Demand Radar — 2026-10-12
 
-- Jobs: **205**
+- Jobs: **198**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-10
+- Compared with: 2026-10-11
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 60 | 29% | ↓ 3 |
-| 2 | llm | 44 | 21% | ↑ 2 |
-| 3 | sql | 35 | 17% | ↑ 10 |
-| 4 | aws | 32 | 16% | ↓ 1 |
-| 5 | typescript | 29 | 14% | ↑ 3 |
-| 6 | kubernetes | 25 | 12% | ↓ 10 |
-| 7 | ci/cd | 23 | 11% | ↓ 8 |
-| 8 | docker | 21 | 10% | ↑ 7 |
-| 9 | react | 18 | 9% | ↓ 1 |
-| 10 | azure | 16 | 8% | ↑ 6 |
-| 11 | node | 16 | 8% | ↑ 1 |
-| 12 | devops | 15 | 7% | ↓ 1 |
-| 13 | git | 15 | 7% | ↑ 7 |
-| 14 | java | 15 | 7% | ↓ 4 |
-| 15 | postgres | 15 | 7% | ↓ 1 |
+| 1 | python | 62 | 31% | ↑ 2 |
+| 2 | llm | 31 | 16% | ↓ 13 |
+| 3 | kubernetes | 25 | 13% | → 0 |
+| 4 | ci/cd | 24 | 12% | ↑ 1 |
+| 5 | sql | 24 | 12% | ↓ 11 |
+| 6 | agile | 22 | 11% | ↑ 8 |
+| 7 | docker | 22 | 11% | ↑ 1 |
+| 8 | typescript | 21 | 11% | ↓ 8 |
+| 9 | azure | 19 | 10% | ↑ 3 |
+| 10 | devops | 19 | 10% | ↑ 4 |
+| 11 | gcp | 19 | 10% | ↑ 6 |
+| 12 | c++ | 17 | 9% | ↑ 10 |
+| 13 | javascript | 17 | 9% | ↑ 7 |
+| 14 | react | 17 | 9% | ↓ 1 |
+| 15 | aws | 16 | 8% | ↓ 16 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 44 |
-| ml/ai | 38 |
-| fullstack | 29 |
-| backend | 23 |
+| ml/ai | 42 |
+| devops | 36 |
+| backend | 30 |
 | data | 15 |
+| fullstack | 14 |
+| mobile | 14 |
 | product | 14 |
-| mobile | 12 |
-| qa | 9 |
-| other | 8 |
-| frontend | 7 |
+| frontend | 13 |
+| design | 10 |
+| qa | 8 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 44 |
-| Germany | 35 |
-| United Kingdom | 34 |
-| France | 29 |
-| Switzerland | 17 |
+| Remote | 39 |
+| United Kingdom | 32 |
+| Germany | 31 |
+| France | 25 |
+| Switzerland | 24 |
+| Unknown | 8 |
 | United States | 7 |
-| Unknown | 7 |
-| Schweiz | 4 |
-| Ebersberg | 3 |
-| Hybrid | 3 |
+| Hybrid | 4 |
+| Australia | 3 |
+| Gilching | 2 |
 
 ---
 
