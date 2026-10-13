@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-12
+# Skill Demand Radar — 2026-10-13
 
-- Jobs: **198**
+- Jobs: **192**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-11
+- Compared with: 2026-10-12
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 62 | 31% | ↑ 2 |
-| 2 | llm | 31 | 16% | ↓ 13 |
-| 3 | kubernetes | 25 | 13% | → 0 |
-| 4 | ci/cd | 24 | 12% | ↑ 1 |
-| 5 | sql | 24 | 12% | ↓ 11 |
-| 6 | agile | 22 | 11% | ↑ 8 |
-| 7 | docker | 22 | 11% | ↑ 1 |
-| 8 | typescript | 21 | 11% | ↓ 8 |
-| 9 | azure | 19 | 10% | ↑ 3 |
-| 10 | devops | 19 | 10% | ↑ 4 |
-| 11 | gcp | 19 | 10% | ↑ 6 |
-| 12 | c++ | 17 | 9% | ↑ 10 |
-| 13 | javascript | 17 | 9% | ↑ 7 |
-| 14 | react | 17 | 9% | ↓ 1 |
-| 15 | aws | 16 | 8% | ↓ 16 |
+| 1 | python | 45 | 23% | ↓ 17 |
+| 2 | llm | 34 | 18% | ↑ 3 |
+| 3 | kubernetes | 26 | 14% | ↑ 1 |
+| 4 | aws | 25 | 13% | ↑ 9 |
+| 5 | azure | 25 | 13% | ↑ 6 |
+| 6 | sql | 24 | 12% | → 0 |
+| 7 | figma | 21 | 11% | ↑ 12 |
+| 8 | gcp | 21 | 11% | ↑ 2 |
+| 9 | ci/cd | 20 | 10% | ↓ 4 |
+| 10 | agile | 18 | 9% | ↓ 4 |
+| 11 | linux | 18 | 9% | ↑ 8 |
+| 12 | react | 18 | 9% | ↑ 1 |
+| 13 | typescript | 18 | 9% | ↓ 3 |
+| 14 | c++ | 16 | 8% | ↓ 1 |
+| 15 | javascript | 16 | 8% | ↓ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 42 |
-| devops | 36 |
-| backend | 30 |
-| data | 15 |
-| fullstack | 14 |
-| mobile | 14 |
-| product | 14 |
-| frontend | 13 |
-| design | 10 |
-| qa | 8 |
+| ml/ai | 33 |
+| backend | 29 |
+| devops | 26 |
+| mobile | 22 |
+| design | 17 |
+| fullstack | 17 |
+| product | 17 |
+| qa | 9 |
+| data | 8 |
+| frontend | 8 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 39 |
-| United Kingdom | 32 |
-| Germany | 31 |
-| France | 25 |
-| Switzerland | 24 |
-| Unknown | 8 |
+| Germany | 42 |
+| Remote | 37 |
+| United Kingdom | 20 |
+| Netherlands | 19 |
+| France | 18 |
+| Switzerland | 11 |
+| Hybrid | 8 |
 | United States | 7 |
-| Hybrid | 4 |
-| Australia | 3 |
-| Gilching | 2 |
+| Unknown | 7 |
+| Europe | 2 |
 
 ---
 
