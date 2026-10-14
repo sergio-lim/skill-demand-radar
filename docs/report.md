@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-13
+# Skill Demand Radar — 2026-10-14
 
-- Jobs: **192**
+- Jobs: **186**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-12
+- Compared with: 2026-10-13
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 45 | 23% | ↓ 17 |
-| 2 | llm | 34 | 18% | ↑ 3 |
-| 3 | kubernetes | 26 | 14% | ↑ 1 |
-| 4 | aws | 25 | 13% | ↑ 9 |
-| 5 | azure | 25 | 13% | ↑ 6 |
-| 6 | sql | 24 | 12% | → 0 |
-| 7 | figma | 21 | 11% | ↑ 12 |
-| 8 | gcp | 21 | 11% | ↑ 2 |
-| 9 | ci/cd | 20 | 10% | ↓ 4 |
-| 10 | agile | 18 | 9% | ↓ 4 |
-| 11 | linux | 18 | 9% | ↑ 8 |
-| 12 | react | 18 | 9% | ↑ 1 |
-| 13 | typescript | 18 | 9% | ↓ 3 |
-| 14 | c++ | 16 | 8% | ↓ 1 |
-| 15 | javascript | 16 | 8% | ↓ 1 |
+| 1 | python | 46 | 25% | ↑ 1 |
+| 2 | kubernetes | 29 | 16% | ↑ 3 |
+| 3 | llm | 27 | 15% | ↓ 7 |
+| 4 | sql | 27 | 15% | ↑ 3 |
+| 5 | ci/cd | 23 | 12% | ↑ 3 |
+| 6 | aws | 22 | 12% | ↓ 3 |
+| 7 | agile | 20 | 11% | ↑ 2 |
+| 8 | java | 20 | 11% | ↑ 10 |
+| 9 | typescript | 20 | 11% | ↑ 2 |
+| 10 | devops | 19 | 10% | ↑ 4 |
+| 11 | react | 18 | 10% | → 0 |
+| 12 | azure | 17 | 9% | ↓ 8 |
+| 13 | javascript | 17 | 9% | ↑ 1 |
+| 14 | gcp | 16 | 9% | ↓ 5 |
+| 15 | node | 14 | 8% | ↓ 2 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 33 |
-| backend | 29 |
-| devops | 26 |
-| mobile | 22 |
-| design | 17 |
-| fullstack | 17 |
-| product | 17 |
-| qa | 9 |
-| data | 8 |
+| devops | 33 |
+| ml/ai | 27 |
+| backend | 26 |
+| product | 22 |
+| fullstack | 20 |
+| data | 13 |
+| mobile | 12 |
+| design | 11 |
 | frontend | 8 |
+| qa | 8 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Germany | 42 |
-| Remote | 37 |
-| United Kingdom | 20 |
-| Netherlands | 19 |
-| France | 18 |
-| Switzerland | 11 |
-| Hybrid | 8 |
+| Remote | 34 |
+| Netherlands | 27 |
+| Germany | 25 |
+| United Kingdom | 16 |
+| France | 15 |
+| Unknown | 14 |
+| Switzerland | 13 |
 | United States | 7 |
-| Unknown | 7 |
-| Europe | 2 |
+| Nord | 5 |
+| Espelkamp | 2 |
 
 ---
 
