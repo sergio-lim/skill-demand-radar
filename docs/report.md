@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-14
+# Skill Demand Radar — 2026-10-15
 
-- Jobs: **186**
+- Jobs: **195**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-13
+- Compared with: 2026-10-14
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 46 | 25% | ↑ 1 |
-| 2 | kubernetes | 29 | 16% | ↑ 3 |
-| 3 | llm | 27 | 15% | ↓ 7 |
-| 4 | sql | 27 | 15% | ↑ 3 |
-| 5 | ci/cd | 23 | 12% | ↑ 3 |
-| 6 | aws | 22 | 12% | ↓ 3 |
-| 7 | agile | 20 | 11% | ↑ 2 |
-| 8 | java | 20 | 11% | ↑ 10 |
-| 9 | typescript | 20 | 11% | ↑ 2 |
-| 10 | devops | 19 | 10% | ↑ 4 |
-| 11 | react | 18 | 10% | → 0 |
-| 12 | azure | 17 | 9% | ↓ 8 |
-| 13 | javascript | 17 | 9% | ↑ 1 |
-| 14 | gcp | 16 | 9% | ↓ 5 |
-| 15 | node | 14 | 8% | ↓ 2 |
+| 1 | python | 58 | 30% | ↑ 12 |
+| 2 | ci/cd | 40 | 21% | ↑ 17 |
+| 3 | kubernetes | 29 | 15% | → 0 |
+| 4 | devops | 27 | 14% | ↑ 8 |
+| 5 | aws | 24 | 12% | ↑ 2 |
+| 6 | docker | 24 | 12% | ↑ 14 |
+| 7 | gcp | 23 | 12% | ↑ 7 |
+| 8 | llm | 23 | 12% | ↓ 4 |
+| 9 | sql | 23 | 12% | ↓ 4 |
+| 10 | azure | 22 | 11% | ↑ 5 |
+| 11 | typescript | 22 | 11% | ↑ 2 |
+| 12 | agile | 19 | 10% | ↓ 1 |
+| 13 | postgres | 19 | 10% | ↑ 6 |
+| 14 | terraform | 19 | 10% | ↑ 10 |
+| 15 | java | 18 | 9% | ↓ 2 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
+| ml/ai | 38 |
 | devops | 33 |
-| ml/ai | 27 |
-| backend | 26 |
-| product | 22 |
-| fullstack | 20 |
-| data | 13 |
-| mobile | 12 |
-| design | 11 |
-| frontend | 8 |
-| qa | 8 |
+| backend | 21 |
+| frontend | 20 |
+| qa | 15 |
+| fullstack | 13 |
+| other | 13 |
+| mobile | 11 |
+| product | 11 |
+| data | 10 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 34 |
-| Netherlands | 27 |
-| Germany | 25 |
-| United Kingdom | 16 |
-| France | 15 |
-| Unknown | 14 |
-| Switzerland | 13 |
+| Remote | 31 |
+| Netherlands | 29 |
+| Germany | 27 |
+| Switzerland | 26 |
+| France | 22 |
+| United Kingdom | 15 |
 | United States | 7 |
-| Nord | 5 |
-| Espelkamp | 2 |
+| Unknown | 5 |
+| Hybrid | 2 |
+| India | 2 |
 
 ---
 
