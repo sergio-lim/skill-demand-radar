@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-18
+# Skill Demand Radar — 2026-10-19
 
-- Jobs: **197**
+- Jobs: **157**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-17
+- Compared with: 2026-10-18
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 60 | 30% | ↓ 12 |
-| 2 | llm | 38 | 19% | ↓ 6 |
-| 3 | kubernetes | 32 | 16% | → 0 |
-| 4 | typescript | 29 | 15% | ↑ 15 |
-| 5 | c++ | 28 | 14% | ↑ 9 |
-| 6 | sql | 28 | 14% | ↑ 4 |
-| 7 | aws | 27 | 14% | ↓ 6 |
-| 8 | ci/cd | 21 | 11% | ↓ 6 |
-| 9 | java | 20 | 10% | ↑ 9 |
-| 10 | gcp | 19 | 10% | ↓ 6 |
-| 11 | javascript | 19 | 10% | ↑ 8 |
-| 12 | react | 19 | 10% | ↑ 6 |
-| 13 | devops | 18 | 9% | ↓ 1 |
-| 14 | docker | 18 | 9% | → 0 |
-| 15 | azure | 17 | 9% | ↓ 10 |
+| 1 | python | 46 | 29% | ↓ 14 |
+| 2 | sql | 31 | 20% | ↑ 3 |
+| 3 | aws | 21 | 13% | ↓ 6 |
+| 4 | azure | 21 | 13% | ↑ 4 |
+| 5 | ci/cd | 21 | 13% | → 0 |
+| 6 | typescript | 17 | 11% | ↓ 12 |
+| 7 | git | 15 | 10% | ↑ 3 |
+| 8 | kubernetes | 15 | 10% | ↓ 17 |
+| 9 | javascript | 14 | 9% | ↓ 5 |
+| 10 | llm | 13 | 8% | ↓ 25 |
+| 11 | postgres | 13 | 8% | ↑ 2 |
+| 12 | devops | 12 | 8% | ↓ 6 |
+| 13 | gcp | 12 | 8% | ↓ 7 |
+| 14 | figma | 11 | 7% | ↑ 1 |
+| 15 | java | 11 | 7% | ↓ 9 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 43 |
-| devops | 36 |
-| backend | 26 |
-| fullstack | 21 |
+| backend | 28 |
+| devops | 27 |
+| ml/ai | 26 |
 | mobile | 16 |
-| data | 13 |
-| product | 13 |
-| qa | 11 |
-| design | 7 |
-| frontend | 6 |
+| data | 10 |
+| other | 10 |
+| design | 9 |
+| frontend | 9 |
+| fullstack | 9 |
+| product | 9 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 44 |
-| Germany | 30 |
-| Netherlands | 28 |
-| United Kingdom | 19 |
-| Switzerland | 17 |
-| France | 13 |
-| Unknown | 11 |
+| Remote | 37 |
+| United Kingdom | 29 |
+| Germany | 18 |
+| France | 14 |
+| Switzerland | 13 |
+| Netherlands | 10 |
 | United States | 4 |
-| Schweiz | 3 |
+| Aachen | 2 |
 | Australia | 2 |
+| Bern | 2 |
 
 ---
 
