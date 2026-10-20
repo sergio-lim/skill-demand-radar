@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-19
+# Skill Demand Radar — 2026-10-20
 
-- Jobs: **157**
+- Jobs: **164**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-18
+- Compared with: 2026-10-19
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 46 | 29% | ↓ 14 |
-| 2 | sql | 31 | 20% | ↑ 3 |
-| 3 | aws | 21 | 13% | ↓ 6 |
-| 4 | azure | 21 | 13% | ↑ 4 |
-| 5 | ci/cd | 21 | 13% | → 0 |
-| 6 | typescript | 17 | 11% | ↓ 12 |
-| 7 | git | 15 | 10% | ↑ 3 |
-| 8 | kubernetes | 15 | 10% | ↓ 17 |
-| 9 | javascript | 14 | 9% | ↓ 5 |
-| 10 | llm | 13 | 8% | ↓ 25 |
-| 11 | postgres | 13 | 8% | ↑ 2 |
-| 12 | devops | 12 | 8% | ↓ 6 |
-| 13 | gcp | 12 | 8% | ↓ 7 |
-| 14 | figma | 11 | 7% | ↑ 1 |
-| 15 | java | 11 | 7% | ↓ 9 |
+| 1 | python | 42 | 26% | ↓ 4 |
+| 2 | llm | 26 | 16% | ↑ 13 |
+| 3 | devops | 24 | 15% | ↑ 12 |
+| 4 | azure | 23 | 14% | ↑ 2 |
+| 5 | ci/cd | 22 | 13% | ↑ 1 |
+| 6 | kubernetes | 19 | 12% | ↑ 4 |
+| 7 | sql | 17 | 10% | ↓ 14 |
+| 8 | java | 16 | 10% | ↑ 5 |
+| 9 | agile | 15 | 9% | ↑ 11 |
+| 10 | aws | 15 | 9% | ↓ 6 |
+| 11 | git | 15 | 9% | → 0 |
+| 12 | typescript | 15 | 9% | ↓ 2 |
+| 13 | docker | 13 | 8% | ↑ 4 |
+| 14 | node | 13 | 8% | ↑ 2 |
+| 15 | react | 12 | 7% | ↑ 2 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| backend | 28 |
-| devops | 27 |
-| ml/ai | 26 |
-| mobile | 16 |
-| data | 10 |
-| other | 10 |
-| design | 9 |
-| frontend | 9 |
+| devops | 41 |
+| ml/ai | 34 |
+| backend | 21 |
+| mobile | 15 |
+| data | 11 |
 | fullstack | 9 |
-| product | 9 |
+| design | 8 |
+| frontend | 8 |
+| product | 7 |
+| other | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 37 |
-| United Kingdom | 29 |
+| Remote | 35 |
 | Germany | 18 |
-| France | 14 |
-| Switzerland | 13 |
-| Netherlands | 10 |
-| United States | 4 |
-| Aachen | 2 |
-| Australia | 2 |
-| Bern | 2 |
+| Switzerland | 16 |
+| France | 15 |
+| Netherlands | 14 |
+| United Kingdom | 13 |
+| Unknown | 6 |
+| Cottbus | 4 |
+| Australia | 3 |
+| Nederland | 3 |
 
 ---
 
