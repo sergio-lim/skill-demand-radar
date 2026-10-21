@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-20
+# Skill Demand Radar — 2026-10-21
 
-- Jobs: **164**
+- Jobs: **162**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-19
+- Compared with: 2026-10-20
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 42 | 26% | ↓ 4 |
-| 2 | llm | 26 | 16% | ↑ 13 |
-| 3 | devops | 24 | 15% | ↑ 12 |
-| 4 | azure | 23 | 14% | ↑ 2 |
-| 5 | ci/cd | 22 | 13% | ↑ 1 |
-| 6 | kubernetes | 19 | 12% | ↑ 4 |
-| 7 | sql | 17 | 10% | ↓ 14 |
-| 8 | java | 16 | 10% | ↑ 5 |
-| 9 | agile | 15 | 9% | ↑ 11 |
-| 10 | aws | 15 | 9% | ↓ 6 |
+| 1 | python | 54 | 33% | ↑ 12 |
+| 2 | ci/cd | 25 | 15% | ↑ 3 |
+| 3 | sql | 25 | 15% | ↑ 8 |
+| 4 | kubernetes | 24 | 15% | ↑ 5 |
+| 5 | devops | 22 | 14% | ↓ 2 |
+| 6 | azure | 21 | 13% | ↓ 2 |
+| 7 | aws | 20 | 12% | ↑ 5 |
+| 8 | typescript | 20 | 12% | ↑ 5 |
+| 9 | llm | 18 | 11% | ↓ 8 |
+| 10 | terraform | 17 | 10% | ↑ 5 |
 | 11 | git | 15 | 9% | → 0 |
-| 12 | typescript | 15 | 9% | ↓ 2 |
-| 13 | docker | 13 | 8% | ↑ 4 |
-| 14 | node | 13 | 8% | ↑ 2 |
-| 15 | react | 12 | 7% | ↑ 2 |
+| 12 | gcp | 14 | 9% | ↑ 3 |
+| 13 | docker | 12 | 7% | ↓ 1 |
+| 14 | linux | 12 | 7% | ↑ 3 |
+| 15 | node | 12 | 7% | ↓ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 41 |
-| ml/ai | 34 |
-| backend | 21 |
-| mobile | 15 |
-| data | 11 |
-| fullstack | 9 |
+| devops | 36 |
+| backend | 29 |
+| ml/ai | 28 |
+| fullstack | 14 |
+| data | 13 |
+| frontend | 11 |
+| product | 11 |
 | design | 8 |
-| frontend | 8 |
-| product | 7 |
-| other | 5 |
+| mobile | 8 |
+| qa | 3 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 35 |
-| Germany | 18 |
-| Switzerland | 16 |
-| France | 15 |
-| Netherlands | 14 |
-| United Kingdom | 13 |
-| Unknown | 6 |
-| Cottbus | 4 |
-| Australia | 3 |
-| Nederland | 3 |
+| Remote | 36 |
+| United Kingdom | 26 |
+| Germany | 23 |
+| Netherlands | 17 |
+| Switzerland | 10 |
+| France | 6 |
+| Lausanne | 5 |
+| United States | 3 |
+| Unknown | 3 |
+| Bern | 2 |
 
 ---
 
