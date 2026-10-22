@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-21
+# Skill Demand Radar — 2026-10-22
 
-- Jobs: **162**
+- Jobs: **190**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-20
+- Compared with: 2026-10-21
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 54 | 33% | ↑ 12 |
-| 2 | ci/cd | 25 | 15% | ↑ 3 |
-| 3 | sql | 25 | 15% | ↑ 8 |
-| 4 | kubernetes | 24 | 15% | ↑ 5 |
-| 5 | devops | 22 | 14% | ↓ 2 |
-| 6 | azure | 21 | 13% | ↓ 2 |
-| 7 | aws | 20 | 12% | ↑ 5 |
-| 8 | typescript | 20 | 12% | ↑ 5 |
-| 9 | llm | 18 | 11% | ↓ 8 |
-| 10 | terraform | 17 | 10% | ↑ 5 |
-| 11 | git | 15 | 9% | → 0 |
-| 12 | gcp | 14 | 9% | ↑ 3 |
-| 13 | docker | 12 | 7% | ↓ 1 |
-| 14 | linux | 12 | 7% | ↑ 3 |
-| 15 | node | 12 | 7% | ↓ 1 |
+| 1 | python | 50 | 26% | ↓ 4 |
+| 2 | llm | 40 | 21% | ↑ 22 |
+| 3 | kubernetes | 26 | 14% | ↑ 2 |
+| 4 | ci/cd | 24 | 13% | ↓ 1 |
+| 5 | aws | 23 | 12% | ↑ 3 |
+| 6 | sql | 23 | 12% | ↓ 2 |
+| 7 | c++ | 20 | 11% | ↑ 11 |
+| 8 | typescript | 18 | 9% | ↓ 2 |
+| 9 | docker | 17 | 9% | ↑ 5 |
+| 10 | java | 15 | 8% | ↑ 4 |
+| 11 | devops | 14 | 7% | ↓ 8 |
+| 12 | javascript | 14 | 7% | ↑ 5 |
+| 13 | linux | 14 | 7% | ↑ 2 |
+| 14 | postgres | 14 | 7% | ↑ 5 |
+| 15 | react | 14 | 7% | ↑ 4 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 36 |
-| backend | 29 |
-| ml/ai | 28 |
-| fullstack | 14 |
+| ml/ai | 42 |
+| backend | 33 |
+| devops | 25 |
+| mobile | 20 |
+| product | 14 |
 | data | 13 |
-| frontend | 11 |
-| product | 11 |
-| design | 8 |
-| mobile | 8 |
-| qa | 3 |
+| fullstack | 13 |
+| frontend | 12 |
+| design | 9 |
+| qa | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
 | Remote | 36 |
-| United Kingdom | 26 |
-| Germany | 23 |
-| Netherlands | 17 |
-| Switzerland | 10 |
-| France | 6 |
-| Lausanne | 5 |
+| Germany | 31 |
+| Netherlands | 26 |
+| Unknown | 20 |
+| France | 17 |
+| United Kingdom | 16 |
+| Switzerland | 13 |
 | United States | 3 |
-| Unknown | 3 |
-| Bern | 2 |
+| Alveslohe | 1 |
+| Australia | 1 |
 
 ---
 
