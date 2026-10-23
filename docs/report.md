@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-22
+# Skill Demand Radar — 2026-10-23
 
-- Jobs: **190**
+- Jobs: **185**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-21
+- Compared with: 2026-10-22
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 50 | 26% | ↓ 4 |
-| 2 | llm | 40 | 21% | ↑ 22 |
-| 3 | kubernetes | 26 | 14% | ↑ 2 |
-| 4 | ci/cd | 24 | 13% | ↓ 1 |
-| 5 | aws | 23 | 12% | ↑ 3 |
-| 6 | sql | 23 | 12% | ↓ 2 |
-| 7 | c++ | 20 | 11% | ↑ 11 |
-| 8 | typescript | 18 | 9% | ↓ 2 |
-| 9 | docker | 17 | 9% | ↑ 5 |
-| 10 | java | 15 | 8% | ↑ 4 |
-| 11 | devops | 14 | 7% | ↓ 8 |
-| 12 | javascript | 14 | 7% | ↑ 5 |
-| 13 | linux | 14 | 7% | ↑ 2 |
-| 14 | postgres | 14 | 7% | ↑ 5 |
-| 15 | react | 14 | 7% | ↑ 4 |
+| 1 | python | 45 | 24% | ↓ 5 |
+| 2 | llm | 22 | 12% | ↓ 18 |
+| 3 | sql | 22 | 12% | ↓ 1 |
+| 4 | ci/cd | 21 | 11% | ↓ 3 |
+| 5 | agile | 19 | 10% | ↑ 8 |
+| 6 | javascript | 19 | 10% | ↑ 5 |
+| 7 | aws | 18 | 10% | ↓ 5 |
+| 8 | linux | 18 | 10% | ↑ 4 |
+| 9 | c++ | 17 | 9% | ↓ 3 |
+| 10 | css | 16 | 9% | ↑ 6 |
+| 11 | devops | 16 | 9% | ↑ 2 |
+| 12 | git | 16 | 9% | ↑ 4 |
+| 13 | typescript | 16 | 9% | ↓ 2 |
+| 14 | docker | 15 | 8% | ↓ 2 |
+| 15 | java | 15 | 8% | → 0 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 42 |
-| backend | 33 |
-| devops | 25 |
-| mobile | 20 |
-| product | 14 |
-| data | 13 |
-| fullstack | 13 |
+| devops | 37 |
+| ml/ai | 35 |
+| backend | 26 |
+| fullstack | 17 |
+| data | 16 |
+| mobile | 13 |
+| product | 13 |
 | frontend | 12 |
-| design | 9 |
-| qa | 5 |
+| design | 8 |
+| qa | 6 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 36 |
-| Germany | 31 |
-| Netherlands | 26 |
-| Unknown | 20 |
-| France | 17 |
-| United Kingdom | 16 |
-| Switzerland | 13 |
+| Remote | 40 |
+| Germany | 27 |
+| Netherlands | 25 |
+| France | 23 |
+| Switzerland | 18 |
+| United Kingdom | 12 |
+| Unknown | 6 |
 | United States | 3 |
-| Alveslohe | 1 |
-| Australia | 1 |
+| Lausanne | 2 |
+| Nederland | 2 |
 
 ---
 
