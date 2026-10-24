@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-23
+# Skill Demand Radar — 2026-10-24
 
-- Jobs: **185**
+- Jobs: **206**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-22
+- Compared with: 2026-10-23
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 45 | 24% | ↓ 5 |
-| 2 | llm | 22 | 12% | ↓ 18 |
-| 3 | sql | 22 | 12% | ↓ 1 |
-| 4 | ci/cd | 21 | 11% | ↓ 3 |
-| 5 | agile | 19 | 10% | ↑ 8 |
-| 6 | javascript | 19 | 10% | ↑ 5 |
-| 7 | aws | 18 | 10% | ↓ 5 |
-| 8 | linux | 18 | 10% | ↑ 4 |
-| 9 | c++ | 17 | 9% | ↓ 3 |
-| 10 | css | 16 | 9% | ↑ 6 |
-| 11 | devops | 16 | 9% | ↑ 2 |
-| 12 | git | 16 | 9% | ↑ 4 |
-| 13 | typescript | 16 | 9% | ↓ 2 |
-| 14 | docker | 15 | 8% | ↓ 2 |
-| 15 | java | 15 | 8% | → 0 |
+| 1 | python | 68 | 33% | ↑ 23 |
+| 2 | sql | 40 | 19% | ↑ 18 |
+| 3 | aws | 28 | 14% | ↑ 10 |
+| 4 | llm | 28 | 14% | ↑ 6 |
+| 5 | typescript | 28 | 14% | ↑ 12 |
+| 6 | agile | 26 | 13% | ↑ 7 |
+| 7 | ci/cd | 26 | 13% | ↑ 5 |
+| 8 | kubernetes | 26 | 13% | ↑ 11 |
+| 9 | javascript | 24 | 12% | ↑ 5 |
+| 10 | azure | 23 | 11% | ↑ 9 |
+| 11 | gcp | 21 | 10% | ↑ 13 |
+| 12 | node | 21 | 10% | ↑ 10 |
+| 13 | devops | 20 | 10% | ↑ 4 |
+| 14 | react | 20 | 10% | ↑ 5 |
+| 15 | c++ | 19 | 9% | ↑ 2 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 37 |
-| ml/ai | 35 |
-| backend | 26 |
+| devops | 47 |
+| backend | 35 |
+| ml/ai | 31 |
 | fullstack | 17 |
-| data | 16 |
-| mobile | 13 |
+| other | 13 |
 | product | 13 |
+| data | 12 |
 | frontend | 12 |
-| design | 8 |
-| qa | 6 |
+| mobile | 12 |
+| design | 9 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 40 |
-| Germany | 27 |
-| Netherlands | 25 |
-| France | 23 |
-| Switzerland | 18 |
-| United Kingdom | 12 |
-| Unknown | 6 |
+| Remote | 48 |
+| Germany | 28 |
+| Unknown | 26 |
+| United Kingdom | 19 |
+| France | 18 |
+| Netherlands | 16 |
+| Switzerland | 13 |
+| Bern | 4 |
 | United States | 3 |
-| Lausanne | 2 |
-| Nederland | 2 |
+| Schweiz | 2 |
 
 ---
 
