@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-24
+# Skill Demand Radar — 2026-10-25
 
-- Jobs: **206**
+- Jobs: **212**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-23
+- Compared with: 2026-10-24
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 68 | 33% | ↑ 23 |
-| 2 | sql | 40 | 19% | ↑ 18 |
-| 3 | aws | 28 | 14% | ↑ 10 |
-| 4 | llm | 28 | 14% | ↑ 6 |
-| 5 | typescript | 28 | 14% | ↑ 12 |
-| 6 | agile | 26 | 13% | ↑ 7 |
-| 7 | ci/cd | 26 | 13% | ↑ 5 |
-| 8 | kubernetes | 26 | 13% | ↑ 11 |
-| 9 | javascript | 24 | 12% | ↑ 5 |
-| 10 | azure | 23 | 11% | ↑ 9 |
-| 11 | gcp | 21 | 10% | ↑ 13 |
-| 12 | node | 21 | 10% | ↑ 10 |
-| 13 | devops | 20 | 10% | ↑ 4 |
-| 14 | react | 20 | 10% | ↑ 5 |
-| 15 | c++ | 19 | 9% | ↑ 2 |
+| 1 | python | 70 | 33% | ↑ 2 |
+| 2 | llm | 40 | 19% | ↑ 12 |
+| 3 | sql | 36 | 17% | ↓ 4 |
+| 4 | aws | 34 | 16% | ↑ 6 |
+| 5 | gcp | 30 | 14% | ↑ 9 |
+| 6 | kubernetes | 30 | 14% | ↑ 4 |
+| 7 | ci/cd | 29 | 14% | ↑ 3 |
+| 8 | snowflake | 29 | 14% | ↑ 19 |
+| 9 | azure | 28 | 13% | ↑ 5 |
+| 10 | react | 27 | 13% | ↑ 7 |
+| 11 | typescript | 23 | 11% | ↓ 5 |
+| 12 | java | 21 | 10% | ↑ 2 |
+| 13 | terraform | 21 | 10% | ↑ 4 |
+| 14 | devops | 19 | 9% | ↓ 1 |
+| 15 | javascript | 18 | 8% | ↓ 6 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 47 |
-| backend | 35 |
-| ml/ai | 31 |
-| fullstack | 17 |
-| other | 13 |
-| product | 13 |
-| data | 12 |
-| frontend | 12 |
-| mobile | 12 |
-| design | 9 |
+| ml/ai | 35 |
+| backend | 34 |
+| devops | 31 |
+| data | 30 |
+| product | 18 |
+| frontend | 15 |
+| other | 12 |
+| design | 11 |
+| fullstack | 10 |
+| mobile | 10 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 48 |
-| Germany | 28 |
-| Unknown | 26 |
-| United Kingdom | 19 |
-| France | 18 |
-| Netherlands | 16 |
-| Switzerland | 13 |
-| Bern | 4 |
+| Remote | 39 |
+| France | 37 |
+| Germany | 35 |
+| United Kingdom | 29 |
+| Switzerland | 28 |
+| Unknown | 7 |
+| Heidelberg | 4 |
 | United States | 3 |
-| Schweiz | 2 |
+| India | 2 |
+| Netherlands | 2 |
 
 ---
 
