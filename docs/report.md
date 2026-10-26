@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-25
+# Skill Demand Radar — 2026-10-26
 
-- Jobs: **212**
+- Jobs: **190**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-24
+- Compared with: 2026-10-25
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 70 | 33% | ↑ 2 |
-| 2 | llm | 40 | 19% | ↑ 12 |
-| 3 | sql | 36 | 17% | ↓ 4 |
-| 4 | aws | 34 | 16% | ↑ 6 |
-| 5 | gcp | 30 | 14% | ↑ 9 |
-| 6 | kubernetes | 30 | 14% | ↑ 4 |
-| 7 | ci/cd | 29 | 14% | ↑ 3 |
-| 8 | snowflake | 29 | 14% | ↑ 19 |
-| 9 | azure | 28 | 13% | ↑ 5 |
-| 10 | react | 27 | 13% | ↑ 7 |
-| 11 | typescript | 23 | 11% | ↓ 5 |
-| 12 | java | 21 | 10% | ↑ 2 |
-| 13 | terraform | 21 | 10% | ↑ 4 |
-| 14 | devops | 19 | 9% | ↓ 1 |
-| 15 | javascript | 18 | 8% | ↓ 6 |
+| 1 | python | 60 | 32% | ↓ 10 |
+| 2 | sql | 35 | 18% | ↓ 1 |
+| 3 | aws | 29 | 15% | ↓ 5 |
+| 4 | llm | 29 | 15% | ↓ 11 |
+| 5 | kubernetes | 27 | 14% | ↓ 3 |
+| 6 | azure | 26 | 14% | ↓ 2 |
+| 7 | java | 24 | 13% | ↑ 3 |
+| 8 | ci/cd | 22 | 12% | ↓ 7 |
+| 9 | typescript | 22 | 12% | ↓ 1 |
+| 10 | javascript | 20 | 11% | ↑ 2 |
+| 11 | devops | 19 | 10% | → 0 |
+| 12 | agile | 17 | 9% | ↑ 1 |
+| 13 | gcp | 17 | 9% | ↓ 13 |
+| 14 | react | 17 | 9% | ↓ 10 |
+| 15 | linux | 16 | 8% | ↓ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 35 |
-| backend | 34 |
-| devops | 31 |
-| data | 30 |
-| product | 18 |
-| frontend | 15 |
-| other | 12 |
-| design | 11 |
-| fullstack | 10 |
-| mobile | 10 |
+| devops | 41 |
+| ml/ai | 33 |
+| backend | 31 |
+| data | 15 |
+| mobile | 15 |
+| fullstack | 14 |
+| frontend | 9 |
+| other | 9 |
+| product | 9 |
+| design | 8 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 39 |
-| France | 37 |
-| Germany | 35 |
-| United Kingdom | 29 |
-| Switzerland | 28 |
-| Unknown | 7 |
-| Heidelberg | 4 |
+| Remote | 41 |
+| Germany | 32 |
+| Switzerland | 27 |
+| United Kingdom | 19 |
+| France | 16 |
+| Unknown | 10 |
+| Netherlands | 5 |
 | United States | 3 |
-| India | 2 |
-| Netherlands | 2 |
+| Augsburg | 2 |
+| Nous Hq | 2 |
 
 ---
 
