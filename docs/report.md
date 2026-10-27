@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-26
+# Skill Demand Radar — 2026-10-27
 
-- Jobs: **190**
+- Jobs: **161**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-25
+- Compared with: 2026-10-26
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 60 | 32% | ↓ 10 |
-| 2 | sql | 35 | 18% | ↓ 1 |
-| 3 | aws | 29 | 15% | ↓ 5 |
-| 4 | llm | 29 | 15% | ↓ 11 |
-| 5 | kubernetes | 27 | 14% | ↓ 3 |
-| 6 | azure | 26 | 14% | ↓ 2 |
-| 7 | java | 24 | 13% | ↑ 3 |
-| 8 | ci/cd | 22 | 12% | ↓ 7 |
-| 9 | typescript | 22 | 12% | ↓ 1 |
-| 10 | javascript | 20 | 11% | ↑ 2 |
-| 11 | devops | 19 | 10% | → 0 |
-| 12 | agile | 17 | 9% | ↑ 1 |
-| 13 | gcp | 17 | 9% | ↓ 13 |
-| 14 | react | 17 | 9% | ↓ 10 |
-| 15 | linux | 16 | 8% | ↓ 1 |
+| 1 | python | 50 | 31% | ↓ 10 |
+| 2 | llm | 30 | 19% | ↑ 1 |
+| 3 | ci/cd | 27 | 17% | ↑ 5 |
+| 4 | sql | 27 | 17% | ↓ 8 |
+| 5 | aws | 25 | 16% | ↓ 4 |
+| 6 | azure | 21 | 13% | ↓ 5 |
+| 7 | kubernetes | 19 | 12% | ↓ 8 |
+| 8 | gcp | 18 | 11% | ↑ 1 |
+| 9 | java | 18 | 11% | ↓ 6 |
+| 10 | typescript | 18 | 11% | ↓ 4 |
+| 11 | devops | 17 | 11% | ↓ 2 |
+| 12 | linux | 15 | 9% | ↓ 1 |
+| 13 | node | 15 | 9% | ↑ 3 |
+| 14 | react | 14 | 9% | ↓ 3 |
+| 15 | postgres | 13 | 8% | ↓ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 41 |
 | ml/ai | 33 |
-| backend | 31 |
-| data | 15 |
-| mobile | 15 |
-| fullstack | 14 |
+| devops | 32 |
+| backend | 23 |
+| fullstack | 13 |
+| mobile | 11 |
+| product | 10 |
 | frontend | 9 |
 | other | 9 |
-| product | 9 |
+| data | 8 |
 | design | 8 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 41 |
-| Germany | 32 |
-| Switzerland | 27 |
-| United Kingdom | 19 |
-| France | 16 |
-| Unknown | 10 |
-| Netherlands | 5 |
+| Remote | 42 |
+| Switzerland | 21 |
+| Germany | 19 |
+| United Kingdom | 18 |
+| France | 13 |
+| Netherlands | 12 |
+| Nederland | 4 |
 | United States | 3 |
-| Augsburg | 2 |
-| Nous Hq | 2 |
+| Ireland | 2 |
+| Almere | 1 |
 
 ---
 
