@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-28
+# Skill Demand Radar — 2026-10-29
 
-- Jobs: **192**
+- Jobs: **188**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-27
+- Compared with: 2026-10-28
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 60 | 31% | ↑ 10 |
-| 2 | kubernetes | 33 | 17% | ↑ 14 |
-| 3 | aws | 30 | 16% | ↑ 5 |
-| 4 | azure | 26 | 14% | ↑ 5 |
-| 5 | ci/cd | 26 | 14% | ↓ 1 |
-| 6 | typescript | 26 | 14% | ↑ 8 |
-| 7 | llm | 25 | 13% | ↓ 5 |
-| 8 | gcp | 24 | 12% | ↑ 6 |
-| 9 | react | 23 | 12% | ↑ 9 |
-| 10 | sql | 23 | 12% | ↓ 4 |
-| 11 | node | 21 | 11% | ↑ 6 |
-| 12 | devops | 19 | 10% | ↑ 2 |
-| 13 | java | 18 | 9% | → 0 |
-| 14 | terraform | 18 | 9% | ↑ 11 |
-| 15 | c++ | 17 | 9% | ↑ 9 |
+| 1 | python | 47 | 25% | ↓ 13 |
+| 2 | llm | 31 | 16% | ↑ 6 |
+| 3 | sql | 23 | 12% | → 0 |
+| 4 | typescript | 19 | 10% | ↓ 7 |
+| 5 | figma | 18 | 10% | ↑ 9 |
+| 6 | node | 18 | 10% | ↓ 3 |
+| 7 | aws | 17 | 9% | ↓ 13 |
+| 8 | react | 17 | 9% | ↓ 6 |
+| 9 | azure | 16 | 9% | ↓ 10 |
+| 10 | devops | 16 | 9% | ↓ 3 |
+| 11 | kubernetes | 15 | 8% | ↓ 18 |
+| 12 | ci/cd | 14 | 7% | ↓ 12 |
+| 13 | html | 14 | 7% | ↑ 3 |
+| 14 | agile | 13 | 7% | ↓ 1 |
+| 15 | c++ | 13 | 7% | ↓ 4 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 42 |
-| devops | 37 |
-| backend | 24 |
-| fullstack | 17 |
-| product | 17 |
+| ml/ai | 33 |
+| devops | 30 |
+| backend | 25 |
 | frontend | 16 |
-| data | 9 |
-| design | 9 |
-| mobile | 9 |
-| other | 6 |
+| product | 15 |
+| design | 14 |
+| mobile | 14 |
+| data | 13 |
+| fullstack | 13 |
+| qa | 9 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 43 |
-| Germany | 34 |
+| Remote | 41 |
+| Germany | 32 |
+| United Kingdom | 26 |
 | France | 19 |
-| Netherlands | 19 |
-| United Kingdom | 18 |
-| Switzerland | 13 |
-| Unknown | 10 |
-| Occitanie | 5 |
-| Bavaria | 4 |
+| Netherlands | 15 |
+| Unknown | 8 |
+| Switzerland | 7 |
+| Hybrid | 3 |
 | United States | 3 |
+| Almere | 2 |
 
 ---
 
