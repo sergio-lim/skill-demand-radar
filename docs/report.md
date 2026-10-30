@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-29
+# Skill Demand Radar — 2026-10-30
 
-- Jobs: **188**
+- Jobs: **194**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-28
+- Compared with: 2026-10-29
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 47 | 25% | ↓ 13 |
-| 2 | llm | 31 | 16% | ↑ 6 |
-| 3 | sql | 23 | 12% | → 0 |
-| 4 | typescript | 19 | 10% | ↓ 7 |
-| 5 | figma | 18 | 10% | ↑ 9 |
-| 6 | node | 18 | 10% | ↓ 3 |
-| 7 | aws | 17 | 9% | ↓ 13 |
-| 8 | react | 17 | 9% | ↓ 6 |
-| 9 | azure | 16 | 9% | ↓ 10 |
-| 10 | devops | 16 | 9% | ↓ 3 |
-| 11 | kubernetes | 15 | 8% | ↓ 18 |
-| 12 | ci/cd | 14 | 7% | ↓ 12 |
-| 13 | html | 14 | 7% | ↑ 3 |
-| 14 | agile | 13 | 7% | ↓ 1 |
-| 15 | c++ | 13 | 7% | ↓ 4 |
+| 1 | python | 49 | 25% | ↑ 2 |
+| 2 | azure | 34 | 18% | ↑ 18 |
+| 3 | llm | 31 | 16% | → 0 |
+| 4 | ci/cd | 28 | 14% | ↑ 14 |
+| 5 | devops | 28 | 14% | ↑ 12 |
+| 6 | sql | 28 | 14% | ↑ 5 |
+| 7 | typescript | 24 | 12% | ↑ 5 |
+| 8 | kubernetes | 23 | 12% | ↑ 8 |
+| 9 | aws | 22 | 11% | ↑ 5 |
+| 10 | react | 18 | 9% | ↑ 1 |
+| 11 | java | 17 | 9% | ↑ 8 |
+| 12 | gcp | 15 | 8% | ↑ 2 |
+| 13 | git | 15 | 8% | ↑ 8 |
+| 14 | agile | 14 | 7% | ↑ 1 |
+| 15 | figma | 14 | 7% | ↓ 4 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 33 |
-| devops | 30 |
-| backend | 25 |
-| frontend | 16 |
-| product | 15 |
-| design | 14 |
-| mobile | 14 |
-| data | 13 |
-| fullstack | 13 |
-| qa | 9 |
+| devops | 45 |
+| ml/ai | 37 |
+| mobile | 19 |
+| backend | 18 |
+| fullstack | 15 |
+| product | 14 |
+| frontend | 13 |
+| data | 12 |
+| design | 8 |
+| other | 7 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 41 |
-| Germany | 32 |
-| United Kingdom | 26 |
-| France | 19 |
-| Netherlands | 15 |
-| Unknown | 8 |
-| Switzerland | 7 |
-| Hybrid | 3 |
-| United States | 3 |
-| Almere | 2 |
+| Remote | 46 |
+| United Kingdom | 29 |
+| Germany | 27 |
+| France | 22 |
+| Switzerland | 21 |
+| Netherlands | 9 |
+| Unknown | 5 |
+| Veenendaal | 4 |
+| Gelderland | 2 |
+| Königs Wusterhausen | 2 |
 
 ---
 
