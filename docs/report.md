@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-10-31
+# Skill Demand Radar — 2026-11-01
 
-- Jobs: **194**
+- Jobs: **176**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-10-30
+- Compared with: 2026-10-31
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 56 | 29% | ↑ 7 |
-| 2 | llm | 31 | 16% | → 0 |
-| 3 | kubernetes | 27 | 14% | ↑ 4 |
-| 4 | aws | 26 | 13% | ↑ 4 |
-| 5 | ci/cd | 26 | 13% | ↓ 2 |
-| 6 | sql | 25 | 13% | ↓ 3 |
-| 7 | devops | 22 | 11% | ↓ 6 |
-| 8 | typescript | 22 | 11% | ↓ 2 |
-| 9 | azure | 21 | 11% | ↓ 13 |
-| 10 | git | 21 | 11% | ↑ 6 |
-| 11 | java | 21 | 11% | ↑ 4 |
-| 12 | docker | 18 | 9% | ↑ 7 |
-| 13 | react | 17 | 9% | ↓ 1 |
-| 14 | agile | 16 | 8% | ↑ 2 |
-| 15 | gcp | 16 | 8% | ↑ 1 |
+| 1 | python | 59 | 34% | ↑ 3 |
+| 2 | sql | 28 | 16% | ↑ 3 |
+| 3 | aws | 26 | 15% | → 0 |
+| 4 | ci/cd | 26 | 15% | → 0 |
+| 5 | typescript | 23 | 13% | ↑ 1 |
+| 6 | agile | 21 | 12% | ↑ 5 |
+| 7 | kubernetes | 21 | 12% | ↓ 6 |
+| 8 | llm | 21 | 12% | ↓ 10 |
+| 9 | devops | 20 | 11% | ↓ 2 |
+| 10 | react | 20 | 11% | ↑ 3 |
+| 11 | java | 19 | 11% | ↓ 2 |
+| 12 | gcp | 18 | 10% | ↑ 2 |
+| 13 | docker | 17 | 10% | ↓ 1 |
+| 14 | azure | 16 | 9% | ↓ 5 |
+| 15 | c++ | 15 | 9% | ↑ 1 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 43 |
-| ml/ai | 42 |
-| backend | 28 |
-| fullstack | 19 |
-| product | 16 |
-| data | 12 |
-| frontend | 11 |
-| mobile | 10 |
+| devops | 39 |
+| ml/ai | 35 |
+| backend | 27 |
+| data | 14 |
+| frontend | 13 |
+| mobile | 12 |
+| fullstack | 10 |
+| product | 9 |
 | design | 6 |
-| qa | 4 |
+| other | 6 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 44 |
-| Germany | 34 |
-| France | 28 |
-| United Kingdom | 22 |
-| Switzerland | 16 |
-| Unknown | 10 |
-| Netherlands | 9 |
+| Remote | 42 |
+| Germany | 31 |
+| France | 19 |
+| Switzerland | 15 |
+| Netherlands | 13 |
+| United Kingdom | 13 |
+| Unknown | 9 |
+| Nederland | 3 |
 | Canada | 2 |
-| Gelderland | 2 |
-| Veenendaal | 2 |
+| EMEA | 2 |
 
 ---
 
