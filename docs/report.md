@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-02
+# Skill Demand Radar — 2026-11-03
 
-- Jobs: **166**
+- Jobs: **177**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-01
+- Compared with: 2026-11-02
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 56 | 34% | ↓ 3 |
-| 2 | llm | 31 | 19% | ↑ 10 |
-| 3 | sql | 26 | 16% | ↓ 2 |
-| 4 | ci/cd | 25 | 15% | ↓ 1 |
-| 5 | typescript | 21 | 13% | ↓ 2 |
-| 6 | react | 19 | 11% | ↓ 1 |
-| 7 | aws | 17 | 10% | ↓ 9 |
-| 8 | devops | 16 | 10% | ↓ 4 |
-| 9 | kubernetes | 16 | 10% | ↓ 5 |
-| 10 | azure | 15 | 9% | ↓ 1 |
-| 11 | git | 15 | 9% | ↑ 3 |
-| 12 | agile | 13 | 8% | ↓ 8 |
-| 13 | node | 13 | 8% | ↓ 1 |
-| 14 | c# | 12 | 7% | ↑ 2 |
-| 15 | c++ | 12 | 7% | ↓ 3 |
+| 1 | python | 53 | 30% | ↓ 3 |
+| 2 | llm | 25 | 14% | ↓ 6 |
+| 3 | c++ | 22 | 12% | ↑ 10 |
+| 4 | typescript | 21 | 12% | → 0 |
+| 5 | ci/cd | 19 | 11% | ↓ 6 |
+| 6 | react | 18 | 10% | ↓ 1 |
+| 7 | aws | 16 | 9% | ↓ 1 |
+| 8 | javascript | 15 | 8% | ↑ 3 |
+| 9 | kubernetes | 15 | 8% | ↓ 1 |
+| 10 | azure | 14 | 8% | ↓ 1 |
+| 11 | git | 14 | 8% | ↓ 1 |
+| 12 | sql | 14 | 8% | ↓ 12 |
+| 13 | docker | 13 | 7% | ↑ 2 |
+| 14 | java | 13 | 7% | ↑ 3 |
+| 15 | node | 13 | 7% | → 0 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 38 |
-| devops | 29 |
-| backend | 22 |
-| product | 17 |
-| frontend | 14 |
-| design | 11 |
-| data | 9 |
-| fullstack | 8 |
-| mobile | 7 |
-| other | 7 |
+| ml/ai | 44 |
+| backend | 27 |
+| devops | 27 |
+| frontend | 18 |
+| mobile | 12 |
+| fullstack | 11 |
+| product | 10 |
+| design | 9 |
+| data | 8 |
+| qa | 7 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 40 |
-| Germany | 25 |
-| France | 19 |
-| United Kingdom | 16 |
-| Netherlands | 15 |
-| Switzerland | 14 |
-| Unknown | 7 |
-| Nederland | 3 |
-| United States | 3 |
-| Australia | 2 |
+| Remote | 48 |
+| Germany | 29 |
+| United Kingdom | 22 |
+| Netherlands | 21 |
+| France | 18 |
+| Switzerland | 11 |
+| Canada | 2 |
+| Den Bosch | 2 |
+| Schweiz | 2 |
+| Australia | 1 |
 
 ---
 
