@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-07
+# Skill Demand Radar — 2026-11-08
 
-- Jobs: **188**
+- Jobs: **186**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-06
+- Compared with: 2026-11-07
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 59 | 31% | ↑ 7 |
-| 2 | llm | 37 | 20% | ↑ 5 |
-| 3 | aws | 34 | 18% | ↓ 2 |
-| 4 | typescript | 32 | 17% | ↑ 6 |
-| 5 | azure | 28 | 15% | ↑ 6 |
-| 6 | kubernetes | 28 | 15% | ↓ 12 |
-| 7 | devops | 27 | 14% | ↑ 6 |
-| 8 | react | 27 | 14% | ↑ 6 |
-| 9 | sql | 27 | 14% | ↑ 3 |
-| 10 | docker | 25 | 13% | ↑ 4 |
-| 11 | gcp | 25 | 13% | ↓ 4 |
-| 12 | ci/cd | 23 | 12% | ↓ 10 |
-| 13 | node | 19 | 10% | ↑ 1 |
-| 14 | linux | 17 | 9% | ↓ 5 |
-| 15 | git | 16 | 9% | ↑ 2 |
+| 1 | python | 71 | 38% | ↑ 12 |
+| 2 | llm | 48 | 26% | ↑ 11 |
+| 3 | aws | 38 | 20% | ↑ 4 |
+| 4 | typescript | 30 | 16% | ↓ 2 |
+| 5 | kubernetes | 26 | 14% | ↓ 2 |
+| 6 | react | 22 | 12% | ↓ 5 |
+| 7 | gcp | 21 | 11% | ↓ 4 |
+| 8 | java | 21 | 11% | ↑ 8 |
+| 9 | azure | 20 | 11% | ↓ 8 |
+| 10 | sql | 20 | 11% | ↓ 7 |
+| 11 | terraform | 20 | 11% | ↑ 6 |
+| 12 | ci/cd | 19 | 10% | ↓ 4 |
+| 13 | devops | 17 | 9% | ↓ 10 |
+| 14 | postgres | 17 | 9% | ↑ 3 |
+| 15 | node | 15 | 8% | ↓ 4 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 44 |
-| devops | 37 |
-| backend | 26 |
+| ml/ai | 55 |
+| devops | 36 |
+| backend | 23 |
 | fullstack | 22 |
-| frontend | 13 |
-| other | 11 |
-| data | 9 |
+| mobile | 11 |
 | product | 9 |
-| design | 8 |
-| mobile | 6 |
+| frontend | 8 |
+| other | 8 |
+| data | 7 |
+| design | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 51 |
-| Germany | 22 |
-| Netherlands | 22 |
-| France | 19 |
-| United Kingdom | 18 |
-| Switzerland | 7 |
+| Remote | 59 |
+| United Kingdom | 24 |
+| France | 18 |
+| Netherlands | 18 |
+| Germany | 14 |
+| Switzerland | 11 |
 | United States | 5 |
-| Unknown | 4 |
-| Mapbox Uk | 3 |
-| Europe | 2 |
+| Unknown | 5 |
+| Abingdon | 2 |
+| Lancashire | 2 |
 
 ---
 
