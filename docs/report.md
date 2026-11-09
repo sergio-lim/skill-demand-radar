@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-08
+# Skill Demand Radar — 2026-11-09
 
-- Jobs: **186**
+- Jobs: **190**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-07
+- Compared with: 2026-11-08
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 71 | 38% | ↑ 12 |
-| 2 | llm | 48 | 26% | ↑ 11 |
-| 3 | aws | 38 | 20% | ↑ 4 |
-| 4 | typescript | 30 | 16% | ↓ 2 |
-| 5 | kubernetes | 26 | 14% | ↓ 2 |
-| 6 | react | 22 | 12% | ↓ 5 |
-| 7 | gcp | 21 | 11% | ↓ 4 |
-| 8 | java | 21 | 11% | ↑ 8 |
-| 9 | azure | 20 | 11% | ↓ 8 |
-| 10 | sql | 20 | 11% | ↓ 7 |
-| 11 | terraform | 20 | 11% | ↑ 6 |
-| 12 | ci/cd | 19 | 10% | ↓ 4 |
-| 13 | devops | 17 | 9% | ↓ 10 |
-| 14 | postgres | 17 | 9% | ↑ 3 |
-| 15 | node | 15 | 8% | ↓ 4 |
+| 1 | python | 59 | 31% | ↓ 12 |
+| 2 | llm | 55 | 29% | ↑ 7 |
+| 3 | devops | 36 | 19% | ↑ 19 |
+| 4 | java | 33 | 17% | ↑ 12 |
+| 5 | typescript | 33 | 17% | ↑ 3 |
+| 6 | aws | 31 | 16% | ↓ 7 |
+| 7 | react | 29 | 15% | ↑ 7 |
+| 8 | kubernetes | 28 | 15% | ↑ 2 |
+| 9 | azure | 27 | 14% | ↑ 7 |
+| 10 | ci/cd | 26 | 14% | ↑ 7 |
+| 11 | postgres | 22 | 12% | ↑ 5 |
+| 12 | sql | 22 | 12% | ↑ 2 |
+| 13 | docker | 21 | 11% | ↑ 8 |
+| 14 | gcp | 17 | 9% | ↓ 4 |
+| 15 | javascript | 17 | 9% | ↑ 6 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 55 |
-| devops | 36 |
-| backend | 23 |
-| fullstack | 22 |
-| mobile | 11 |
-| product | 9 |
-| frontend | 8 |
-| other | 8 |
-| data | 7 |
-| design | 5 |
+| ml/ai | 51 |
+| devops | 38 |
+| backend | 25 |
+| fullstack | 16 |
+| frontend | 13 |
+| product | 13 |
+| data | 9 |
+| mobile | 9 |
+| design | 6 |
+| other | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 59 |
-| United Kingdom | 24 |
-| France | 18 |
-| Netherlands | 18 |
-| Germany | 14 |
-| Switzerland | 11 |
+| Remote | 43 |
+| Germany | 39 |
+| United Kingdom | 19 |
+| Switzerland | 18 |
+| Netherlands | 15 |
+| France | 13 |
+| Darmstadt | 8 |
 | United States | 5 |
-| Unknown | 5 |
-| Abingdon | 2 |
-| Lancashire | 2 |
+| Unknown | 4 |
+| Occitanie | 3 |
 
 ---
 
