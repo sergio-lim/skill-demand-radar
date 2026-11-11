@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-10
+# Skill Demand Radar — 2026-11-11
 
-- Jobs: **160**
+- Jobs: **192**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-09
+- Compared with: 2026-11-10
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 43 | 27% | ↓ 16 |
-| 2 | ci/cd | 29 | 18% | ↑ 3 |
-| 3 | kubernetes | 29 | 18% | ↑ 1 |
-| 4 | llm | 28 | 18% | ↓ 27 |
-| 5 | aws | 27 | 17% | ↓ 4 |
-| 6 | typescript | 25 | 16% | ↓ 8 |
-| 7 | azure | 23 | 14% | ↓ 4 |
-| 8 | devops | 20 | 12% | ↓ 16 |
-| 9 | terraform | 20 | 12% | ↑ 5 |
-| 10 | gcp | 18 | 11% | ↑ 1 |
-| 11 | postgres | 18 | 11% | ↓ 4 |
-| 12 | java | 17 | 11% | ↓ 16 |
-| 13 | sql | 17 | 11% | ↓ 5 |
-| 14 | node | 16 | 10% | ↑ 2 |
-| 15 | react | 16 | 10% | ↓ 13 |
+| 1 | python | 68 | 35% | ↑ 25 |
+| 2 | aws | 41 | 21% | ↑ 14 |
+| 3 | llm | 40 | 21% | ↑ 12 |
+| 4 | kubernetes | 39 | 20% | ↑ 10 |
+| 5 | azure | 28 | 15% | ↑ 5 |
+| 6 | docker | 28 | 15% | ↑ 13 |
+| 7 | react | 27 | 14% | ↑ 11 |
+| 8 | ci/cd | 26 | 14% | ↓ 3 |
+| 9 | gcp | 26 | 14% | ↑ 8 |
+| 10 | typescript | 23 | 12% | ↓ 2 |
+| 11 | sql | 22 | 11% | ↑ 5 |
+| 12 | java | 18 | 9% | ↑ 1 |
+| 13 | git | 17 | 9% | ↑ 4 |
+| 14 | linux | 17 | 9% | ↑ 6 |
+| 15 | agile | 15 | 8% | ↑ 3 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 35 |
-| devops | 33 |
-| backend | 21 |
+| ml/ai | 41 |
+| devops | 34 |
+| backend | 24 |
+| fullstack | 17 |
 | product | 16 |
-| mobile | 14 |
-| fullstack | 13 |
-| data | 8 |
-| frontend | 8 |
-| other | 5 |
-| design | 4 |
+| data | 14 |
+| frontend | 12 |
+| design | 10 |
+| mobile | 10 |
+| other | 7 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 41 |
-| Germany | 40 |
-| Netherlands | 14 |
-| Switzerland | 14 |
-| United Kingdom | 11 |
-| France | 7 |
-| Unknown | 5 |
-| United States | 3 |
-| Nederland | 2 |
-| Any State | 1 |
+| Remote | 39 |
+| Netherlands | 24 |
+| United Kingdom | 24 |
+| Germany | 23 |
+| France | 22 |
+| Switzerland | 11 |
+| Cardiff | 5 |
+| United States | 4 |
+| Unknown | 4 |
+| Basel | 2 |
 
 ---
 
