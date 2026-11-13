@@ -1,57 +1,57 @@
-# Skill Demand Radar — 2026-11-12
+# Skill Demand Radar — 2026-11-13
 
-- Jobs: **182**
+- Jobs: **169**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-11
+- Compared with: 2026-11-12
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 57 | 31% | ↓ 11 |
-| 2 | llm | 34 | 19% | ↓ 6 |
-| 3 | typescript | 28 | 15% | ↑ 5 |
-| 4 | aws | 25 | 14% | ↓ 16 |
-| 5 | ci/cd | 24 | 13% | ↓ 2 |
-| 6 | sql | 23 | 13% | ↑ 1 |
-| 7 | kubernetes | 22 | 12% | ↓ 17 |
-| 8 | azure | 20 | 11% | ↓ 8 |
-| 9 | react | 20 | 11% | ↓ 7 |
-| 10 | docker | 19 | 10% | ↓ 9 |
-| 11 | gcp | 18 | 10% | ↓ 8 |
-| 12 | java | 18 | 10% | → 0 |
-| 13 | c++ | 17 | 9% | ↑ 4 |
-| 14 | postgres | 17 | 9% | ↑ 2 |
-| 15 | agile | 16 | 9% | ↑ 1 |
+| 1 | python | 60 | 36% | ↑ 3 |
+| 2 | ci/cd | 29 | 17% | ↑ 5 |
+| 3 | llm | 28 | 17% | ↓ 6 |
+| 4 | typescript | 28 | 17% | → 0 |
+| 5 | aws | 26 | 15% | ↑ 1 |
+| 6 | kubernetes | 26 | 15% | ↑ 4 |
+| 7 | azure | 23 | 14% | ↑ 3 |
+| 8 | devops | 23 | 14% | ↑ 10 |
+| 9 | sql | 23 | 14% | → 0 |
+| 10 | postgres | 19 | 11% | ↑ 2 |
+| 11 | gcp | 18 | 11% | → 0 |
+| 12 | docker | 17 | 10% | ↓ 2 |
+| 13 | java | 17 | 10% | ↓ 1 |
+| 14 | javascript | 16 | 9% | → 0 |
+| 15 | openai | 16 | 9% | ↑ 11 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 41 |
-| ml/ai | 39 |
-| product | 22 |
-| backend | 19 |
-| frontend | 14 |
-| fullstack | 13 |
-| mobile | 12 |
-| data | 11 |
-| other | 4 |
+| ml/ai | 41 |
+| devops | 34 |
+| backend | 27 |
+| fullstack | 16 |
+| data | 10 |
+| design | 10 |
+| frontend | 10 |
+| product | 10 |
+| mobile | 4 |
 | qa | 4 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 38 |
-| Germany | 36 |
-| France | 23 |
-| United Kingdom | 18 |
-| Unknown | 10 |
-| Switzerland | 9 |
-| Netherlands | 8 |
-| Nederland | 5 |
-| Schweiz | 4 |
+| Remote | 41 |
+| Germany | 22 |
+| United Kingdom | 21 |
+| France | 19 |
+| Switzerland | 15 |
+| Netherlands | 10 |
+| Unknown | 6 |
+| Cambridge | 5 |
+| Bern | 3 |
 | United States | 3 |
 
 ---
