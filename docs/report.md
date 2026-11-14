@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-13
+# Skill Demand Radar — 2026-11-14
 
-- Jobs: **169**
+- Jobs: **213**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-12
+- Compared with: 2026-11-13
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 60 | 36% | ↑ 3 |
-| 2 | ci/cd | 29 | 17% | ↑ 5 |
-| 3 | llm | 28 | 17% | ↓ 6 |
-| 4 | typescript | 28 | 17% | → 0 |
-| 5 | aws | 26 | 15% | ↑ 1 |
-| 6 | kubernetes | 26 | 15% | ↑ 4 |
-| 7 | azure | 23 | 14% | ↑ 3 |
-| 8 | devops | 23 | 14% | ↑ 10 |
-| 9 | sql | 23 | 14% | → 0 |
-| 10 | postgres | 19 | 11% | ↑ 2 |
-| 11 | gcp | 18 | 11% | → 0 |
-| 12 | docker | 17 | 10% | ↓ 2 |
-| 13 | java | 17 | 10% | ↓ 1 |
-| 14 | javascript | 16 | 9% | → 0 |
-| 15 | openai | 16 | 9% | ↑ 11 |
+| 1 | python | 72 | 34% | ↑ 12 |
+| 2 | aws | 48 | 23% | ↑ 22 |
+| 3 | sql | 46 | 22% | ↑ 23 |
+| 4 | azure | 39 | 18% | ↑ 16 |
+| 5 | llm | 39 | 18% | ↑ 11 |
+| 6 | kubernetes | 34 | 16% | ↑ 8 |
+| 7 | ci/cd | 33 | 15% | ↑ 4 |
+| 8 | gcp | 33 | 15% | ↑ 15 |
+| 9 | typescript | 29 | 14% | ↑ 1 |
+| 10 | java | 28 | 13% | ↑ 11 |
+| 11 | devops | 25 | 12% | ↑ 2 |
+| 12 | postgres | 23 | 11% | ↑ 4 |
+| 13 | docker | 22 | 10% | ↑ 5 |
+| 14 | react | 22 | 10% | ↑ 7 |
+| 15 | terraform | 22 | 10% | ↑ 6 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 41 |
-| devops | 34 |
-| backend | 27 |
-| fullstack | 16 |
-| data | 10 |
-| design | 10 |
-| frontend | 10 |
-| product | 10 |
-| mobile | 4 |
-| qa | 4 |
+| ml/ai | 46 |
+| devops | 38 |
+| backend | 33 |
+| product | 21 |
+| data | 17 |
+| fullstack | 17 |
+| frontend | 12 |
+| mobile | 10 |
+| design | 8 |
+| other | 8 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 41 |
-| Germany | 22 |
-| United Kingdom | 21 |
-| France | 19 |
-| Switzerland | 15 |
-| Netherlands | 10 |
-| Unknown | 6 |
-| Cambridge | 5 |
-| Bern | 3 |
+| Remote | 46 |
+| Germany | 44 |
+| United Kingdom | 24 |
+| Netherlands | 20 |
+| Unknown | 20 |
+| France | 18 |
+| Switzerland | 13 |
+| Nederland | 3 |
 | United States | 3 |
+| Any State | 1 |
 
 ---
 
