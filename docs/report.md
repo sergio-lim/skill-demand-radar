@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-15
+# Skill Demand Radar — 2026-11-16
 
-- Jobs: **211**
+- Jobs: **205**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-14
+- Compared with: 2026-11-15
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 73 | 35% | ↑ 1 |
-| 2 | aws | 44 | 21% | ↓ 4 |
-| 3 | ci/cd | 42 | 20% | ↑ 9 |
-| 4 | llm | 36 | 17% | ↓ 3 |
-| 5 | kubernetes | 33 | 16% | ↓ 1 |
-| 6 | sql | 33 | 16% | ↓ 13 |
-| 7 | typescript | 30 | 14% | ↑ 1 |
-| 8 | azure | 27 | 13% | ↓ 12 |
-| 9 | react | 24 | 11% | ↑ 2 |
-| 10 | docker | 23 | 11% | ↑ 1 |
-| 11 | gcp | 23 | 11% | ↓ 10 |
-| 12 | c++ | 22 | 10% | ↑ 7 |
-| 13 | git | 21 | 10% | ↑ 1 |
-| 14 | postgres | 21 | 10% | ↓ 2 |
-| 15 | node | 19 | 9% | ↑ 4 |
+| 1 | python | 55 | 27% | ↓ 18 |
+| 2 | aws | 39 | 19% | ↓ 5 |
+| 3 | azure | 34 | 17% | ↑ 7 |
+| 4 | sql | 34 | 17% | ↑ 1 |
+| 5 | ci/cd | 33 | 16% | ↓ 9 |
+| 6 | llm | 33 | 16% | ↓ 3 |
+| 7 | kubernetes | 31 | 15% | ↓ 2 |
+| 8 | docker | 30 | 15% | ↑ 7 |
+| 9 | gcp | 29 | 14% | ↑ 6 |
+| 10 | git | 25 | 12% | ↑ 4 |
+| 11 | agile | 24 | 12% | ↑ 10 |
+| 12 | devops | 24 | 12% | ↑ 6 |
+| 13 | typescript | 23 | 11% | ↓ 7 |
+| 14 | java | 19 | 9% | ↑ 4 |
+| 15 | react | 19 | 9% | ↓ 5 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 50 |
-| devops | 36 |
-| backend | 31 |
-| data | 21 |
-| frontend | 18 |
-| fullstack | 16 |
-| product | 14 |
-| mobile | 9 |
-| design | 8 |
-| other | 5 |
+| devops | 47 |
+| ml/ai | 42 |
+| backend | 28 |
+| product | 20 |
+| data | 14 |
+| fullstack | 12 |
+| mobile | 12 |
+| frontend | 11 |
+| qa | 9 |
+| design | 7 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 47 |
-| Germany | 31 |
-| United Kingdom | 30 |
-| France | 24 |
-| Netherlands | 21 |
-| Switzerland | 15 |
-| Unknown | 9 |
-| Australia | 3 |
-| Nederland | 3 |
-| United States | 3 |
+| Remote | 43 |
+| Germany | 24 |
+| Netherlands | 22 |
+| Switzerland | 21 |
+| United Kingdom | 21 |
+| France | 10 |
+| Hybrid | 10 |
+| Unknown | 6 |
+| Schweiz | 4 |
+| United States | 4 |
 
 ---
 
