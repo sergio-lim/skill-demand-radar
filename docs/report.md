@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-16
+# Skill Demand Radar — 2026-11-17
 
-- Jobs: **205**
+- Jobs: **257**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-15
+- Compared with: 2026-11-16
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 55 | 27% | ↓ 18 |
-| 2 | aws | 39 | 19% | ↓ 5 |
-| 3 | azure | 34 | 17% | ↑ 7 |
-| 4 | sql | 34 | 17% | ↑ 1 |
-| 5 | ci/cd | 33 | 16% | ↓ 9 |
-| 6 | llm | 33 | 16% | ↓ 3 |
-| 7 | kubernetes | 31 | 15% | ↓ 2 |
-| 8 | docker | 30 | 15% | ↑ 7 |
-| 9 | gcp | 29 | 14% | ↑ 6 |
-| 10 | git | 25 | 12% | ↑ 4 |
-| 11 | agile | 24 | 12% | ↑ 10 |
-| 12 | devops | 24 | 12% | ↑ 6 |
-| 13 | typescript | 23 | 11% | ↓ 7 |
-| 14 | java | 19 | 9% | ↑ 4 |
-| 15 | react | 19 | 9% | ↓ 5 |
+| 1 | llm | 74 | 29% | ↑ 41 |
+| 2 | python | 68 | 26% | ↑ 13 |
+| 3 | sql | 29 | 11% | ↓ 5 |
+| 4 | kubernetes | 26 | 10% | ↓ 5 |
+| 5 | pytorch | 26 | 10% | ↑ 19 |
+| 6 | typescript | 24 | 9% | ↑ 1 |
+| 7 | postgres | 20 | 8% | ↑ 4 |
+| 8 | ci/cd | 17 | 7% | ↓ 16 |
+| 9 | react | 17 | 7% | ↓ 2 |
+| 10 | aws | 16 | 6% | ↓ 23 |
+| 11 | docker | 16 | 6% | ↓ 14 |
+| 12 | javascript | 15 | 6% | ↓ 2 |
+| 13 | node | 15 | 6% | ↑ 5 |
+| 14 | ruby | 14 | 5% | ↑ 3 |
+| 15 | java | 13 | 5% | ↓ 6 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| devops | 47 |
-| ml/ai | 42 |
-| backend | 28 |
-| product | 20 |
-| data | 14 |
-| fullstack | 12 |
-| mobile | 12 |
-| frontend | 11 |
-| qa | 9 |
+| mobile | 86 |
+| ml/ai | 59 |
+| product | 28 |
+| devops | 23 |
+| backend | 18 |
+| fullstack | 17 |
+| frontend | 8 |
+| data | 7 |
 | design | 7 |
+| qa | 4 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 43 |
-| Germany | 24 |
-| Netherlands | 22 |
-| Switzerland | 21 |
-| United Kingdom | 21 |
-| France | 10 |
-| Hybrid | 10 |
-| Unknown | 6 |
-| Schweiz | 4 |
+| Germany | 54 |
+| Netherlands | 43 |
+| United Kingdom | 41 |
+| Remote | 34 |
+| Switzerland | 27 |
+| France | 21 |
 | United States | 4 |
+| Unknown | 3 |
+| Australia | 2 |
+| Saint-Sulpice | 2 |
 
 ---
 
