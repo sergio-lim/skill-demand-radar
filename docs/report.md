@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-19
+# Skill Demand Radar — 2026-11-20
 
-- Jobs: **202**
+- Jobs: **198**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-18
+- Compared with: 2026-11-19
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 69 | 34% | ↑ 13 |
-| 2 | llm | 57 | 28% | ↑ 20 |
-| 3 | typescript | 36 | 18% | ↑ 21 |
-| 4 | aws | 33 | 16% | → 0 |
-| 5 | gcp | 31 | 15% | → 0 |
-| 6 | kubernetes | 31 | 15% | ↓ 5 |
-| 7 | react | 31 | 15% | ↑ 15 |
-| 8 | azure | 30 | 15% | ↑ 1 |
-| 9 | sql | 29 | 14% | ↑ 4 |
-| 10 | ci/cd | 28 | 14% | ↑ 5 |
-| 11 | docker | 24 | 12% | ↑ 6 |
-| 12 | postgres | 24 | 12% | ↑ 8 |
-| 13 | node | 20 | 10% | ↑ 4 |
-| 14 | devops | 19 | 9% | ↓ 2 |
-| 15 | terraform | 18 | 9% | ↑ 1 |
+| 1 | python | 57 | 29% | ↓ 12 |
+| 2 | llm | 44 | 22% | ↓ 13 |
+| 3 | aws | 41 | 21% | ↑ 8 |
+| 4 | ci/cd | 38 | 19% | ↑ 10 |
+| 5 | kubernetes | 35 | 18% | ↑ 4 |
+| 6 | sql | 29 | 15% | → 0 |
+| 7 | azure | 27 | 14% | ↓ 3 |
+| 8 | gcp | 26 | 13% | ↓ 5 |
+| 9 | terraform | 24 | 12% | ↑ 6 |
+| 10 | typescript | 22 | 11% | ↓ 14 |
+| 11 | react | 21 | 11% | ↓ 10 |
+| 12 | java | 20 | 10% | ↑ 4 |
+| 13 | devops | 19 | 10% | → 0 |
+| 14 | linux | 19 | 10% | ↑ 5 |
+| 15 | docker | 17 | 9% | ↓ 7 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
 | ml/ai | 44 |
-| devops | 35 |
-| backend | 27 |
-| fullstack | 25 |
-| product | 20 |
-| mobile | 13 |
-| frontend | 11 |
-| data | 9 |
-| qa | 7 |
-| design | 6 |
+| devops | 43 |
+| backend | 23 |
+| data | 21 |
+| mobile | 18 |
+| fullstack | 15 |
+| product | 15 |
+| frontend | 8 |
+| other | 4 |
+| qa | 4 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 39 |
-| Germany | 25 |
-| France | 23 |
-| Switzerland | 22 |
-| United Kingdom | 22 |
-| Netherlands | 19 |
-| Unknown | 12 |
-| Nieuwegein | 5 |
-| United States | 5 |
-| Bern | 2 |
+| Remote | 36 |
+| United Kingdom | 31 |
+| Germany | 29 |
+| Netherlands | 20 |
+| Switzerland | 18 |
+| France | 13 |
+| Unknown | 8 |
+| Us Only | 5 |
+| Lausanne | 4 |
+| United States | 3 |
 
 ---
 
