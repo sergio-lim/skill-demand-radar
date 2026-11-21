@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-20
+# Skill Demand Radar — 2026-11-21
 
-- Jobs: **198**
+- Jobs: **184**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-19
+- Compared with: 2026-11-20
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 57 | 29% | ↓ 12 |
-| 2 | llm | 44 | 22% | ↓ 13 |
-| 3 | aws | 41 | 21% | ↑ 8 |
-| 4 | ci/cd | 38 | 19% | ↑ 10 |
-| 5 | kubernetes | 35 | 18% | ↑ 4 |
-| 6 | sql | 29 | 15% | → 0 |
-| 7 | azure | 27 | 14% | ↓ 3 |
-| 8 | gcp | 26 | 13% | ↓ 5 |
-| 9 | terraform | 24 | 12% | ↑ 6 |
-| 10 | typescript | 22 | 11% | ↓ 14 |
-| 11 | react | 21 | 11% | ↓ 10 |
-| 12 | java | 20 | 10% | ↑ 4 |
-| 13 | devops | 19 | 10% | → 0 |
-| 14 | linux | 19 | 10% | ↑ 5 |
-| 15 | docker | 17 | 9% | ↓ 7 |
+| 1 | python | 71 | 39% | ↑ 14 |
+| 2 | aws | 52 | 28% | ↑ 11 |
+| 3 | ci/cd | 38 | 21% | → 0 |
+| 4 | llm | 36 | 20% | ↓ 8 |
+| 5 | kubernetes | 30 | 16% | ↓ 5 |
+| 6 | sql | 29 | 16% | → 0 |
+| 7 | typescript | 26 | 14% | ↑ 4 |
+| 8 | gcp | 22 | 12% | ↓ 4 |
+| 9 | react | 20 | 11% | ↓ 1 |
+| 10 | azure | 19 | 10% | ↓ 8 |
+| 11 | devops | 19 | 10% | → 0 |
+| 12 | linux | 17 | 9% | ↓ 2 |
+| 13 | agile | 16 | 9% | ↑ 3 |
+| 14 | java | 16 | 9% | ↓ 4 |
+| 15 | terraform | 16 | 9% | ↓ 8 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 44 |
-| devops | 43 |
-| backend | 23 |
-| data | 21 |
-| mobile | 18 |
+| ml/ai | 50 |
+| devops | 31 |
+| backend | 28 |
+| data | 16 |
 | fullstack | 15 |
-| product | 15 |
-| frontend | 8 |
-| other | 4 |
-| qa | 4 |
+| product | 14 |
+| frontend | 10 |
+| other | 10 |
+| mobile | 5 |
+| design | 3 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Remote | 36 |
-| United Kingdom | 31 |
-| Germany | 29 |
-| Netherlands | 20 |
-| Switzerland | 18 |
-| France | 13 |
-| Unknown | 8 |
-| Us Only | 5 |
-| Lausanne | 4 |
-| United States | 3 |
+| Germany | 35 |
+| Us Only | 30 |
+| Netherlands | 22 |
+| United Kingdom | 18 |
+| France | 17 |
+| Remote | 12 |
+| Switzerland | 12 |
+| Oxford | 8 |
+| Unknown | 7 |
+| Bordeaux | 6 |
 
 ---
 
