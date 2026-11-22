@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-21
+# Skill Demand Radar — 2026-11-22
 
-- Jobs: **184**
+- Jobs: **179**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-20
+- Compared with: 2026-11-21
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 71 | 39% | ↑ 14 |
-| 2 | aws | 52 | 28% | ↑ 11 |
-| 3 | ci/cd | 38 | 21% | → 0 |
-| 4 | llm | 36 | 20% | ↓ 8 |
-| 5 | kubernetes | 30 | 16% | ↓ 5 |
-| 6 | sql | 29 | 16% | → 0 |
-| 7 | typescript | 26 | 14% | ↑ 4 |
-| 8 | gcp | 22 | 12% | ↓ 4 |
-| 9 | react | 20 | 11% | ↓ 1 |
-| 10 | azure | 19 | 10% | ↓ 8 |
-| 11 | devops | 19 | 10% | → 0 |
-| 12 | linux | 17 | 9% | ↓ 2 |
-| 13 | agile | 16 | 9% | ↑ 3 |
-| 14 | java | 16 | 9% | ↓ 4 |
-| 15 | terraform | 16 | 9% | ↓ 8 |
+| 1 | python | 64 | 36% | ↓ 7 |
+| 2 | ci/cd | 37 | 21% | ↓ 1 |
+| 3 | aws | 33 | 18% | ↓ 19 |
+| 4 | devops | 29 | 16% | ↑ 10 |
+| 5 | llm | 29 | 16% | ↓ 7 |
+| 6 | sql | 24 | 13% | ↓ 5 |
+| 7 | kubernetes | 23 | 13% | ↓ 7 |
+| 8 | agile | 22 | 12% | ↑ 6 |
+| 9 | azure | 20 | 11% | ↑ 1 |
+| 10 | gcp | 19 | 11% | ↓ 3 |
+| 11 | linux | 18 | 10% | ↑ 1 |
+| 12 | postgres | 17 | 9% | ↑ 4 |
+| 13 | typescript | 17 | 9% | ↓ 9 |
+| 14 | docker | 16 | 9% | ↑ 3 |
+| 15 | terraform | 14 | 8% | ↓ 2 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 50 |
-| devops | 31 |
-| backend | 28 |
+| devops | 47 |
+| ml/ai | 36 |
+| backend | 27 |
 | data | 16 |
-| fullstack | 15 |
-| product | 14 |
-| frontend | 10 |
-| other | 10 |
-| mobile | 5 |
-| design | 3 |
+| fullstack | 11 |
+| product | 11 |
+| design | 8 |
+| other | 7 |
+| frontend | 6 |
+| qa | 6 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Germany | 35 |
-| Us Only | 30 |
-| Netherlands | 22 |
-| United Kingdom | 18 |
-| France | 17 |
-| Remote | 12 |
-| Switzerland | 12 |
-| Oxford | 8 |
-| Unknown | 7 |
-| Bordeaux | 6 |
+| Germany | 34 |
+| Us Only | 33 |
+| France | 21 |
+| Netherlands | 20 |
+| Switzerland | 20 |
+| Remote | 13 |
+| United Kingdom | 9 |
+| Unknown | 8 |
+| United States | 4 |
+| Bavaria | 2 |
 
 ---
 
