@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-22
+# Skill Demand Radar — 2026-11-23
 
-- Jobs: **179**
+- Jobs: **192**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-21
+- Compared with: 2026-11-22
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 64 | 36% | ↓ 7 |
-| 2 | ci/cd | 37 | 21% | ↓ 1 |
-| 3 | aws | 33 | 18% | ↓ 19 |
-| 4 | devops | 29 | 16% | ↑ 10 |
-| 5 | llm | 29 | 16% | ↓ 7 |
-| 6 | sql | 24 | 13% | ↓ 5 |
-| 7 | kubernetes | 23 | 13% | ↓ 7 |
-| 8 | agile | 22 | 12% | ↑ 6 |
-| 9 | azure | 20 | 11% | ↑ 1 |
-| 10 | gcp | 19 | 11% | ↓ 3 |
-| 11 | linux | 18 | 10% | ↑ 1 |
-| 12 | postgres | 17 | 9% | ↑ 4 |
-| 13 | typescript | 17 | 9% | ↓ 9 |
-| 14 | docker | 16 | 9% | ↑ 3 |
-| 15 | terraform | 14 | 8% | ↓ 2 |
+| 1 | python | 65 | 34% | ↑ 1 |
+| 2 | ci/cd | 43 | 22% | ↑ 6 |
+| 3 | devops | 38 | 20% | ↑ 9 |
+| 4 | docker | 34 | 18% | ↑ 18 |
+| 5 | kubernetes | 33 | 17% | ↑ 10 |
+| 6 | llm | 33 | 17% | ↑ 4 |
+| 7 | aws | 32 | 17% | ↓ 1 |
+| 8 | sql | 32 | 17% | ↑ 8 |
+| 9 | azure | 25 | 13% | ↑ 5 |
+| 10 | agile | 21 | 11% | ↓ 1 |
+| 11 | gcp | 21 | 11% | ↑ 2 |
+| 12 | postgres | 21 | 11% | ↑ 4 |
+| 13 | java | 20 | 10% | ↑ 7 |
+| 14 | typescript | 18 | 9% | ↑ 1 |
+| 15 | linux | 15 | 8% | ↓ 3 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
 | devops | 47 |
-| ml/ai | 36 |
-| backend | 27 |
-| data | 16 |
-| fullstack | 11 |
-| product | 11 |
-| design | 8 |
-| other | 7 |
-| frontend | 6 |
-| qa | 6 |
+| ml/ai | 42 |
+| backend | 24 |
+| data | 17 |
+| fullstack | 15 |
+| product | 12 |
+| mobile | 10 |
+| qa | 9 |
+| design | 6 |
+| frontend | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Germany | 34 |
-| Us Only | 33 |
-| France | 21 |
-| Netherlands | 20 |
-| Switzerland | 20 |
+| Us Only | 40 |
+| France | 22 |
+| United Kingdom | 22 |
+| Germany | 19 |
+| Netherlands | 17 |
+| Switzerland | 17 |
 | Remote | 13 |
-| United Kingdom | 9 |
-| Unknown | 8 |
-| United States | 4 |
-| Bavaria | 2 |
+| Unknown | 9 |
+| Canada | 3 |
+| Gilching | 3 |
 
 ---
 
