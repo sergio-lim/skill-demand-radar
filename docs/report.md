@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-25
+# Skill Demand Radar — 2026-11-26
 
-- Jobs: **201**
+- Jobs: **178**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-24
+- Compared with: 2026-11-25
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 59 | 29% | ↓ 2 |
-| 2 | sql | 39 | 19% | ↑ 8 |
-| 3 | aws | 37 | 18% | ↑ 4 |
-| 4 | llm | 36 | 18% | ↑ 6 |
-| 5 | kubernetes | 31 | 15% | ↑ 5 |
-| 6 | ci/cd | 29 | 14% | ↓ 3 |
-| 7 | azure | 21 | 10% | ↓ 2 |
-| 8 | javascript | 21 | 10% | ↑ 7 |
-| 9 | gcp | 20 | 10% | ↑ 3 |
-| 10 | devops | 19 | 9% | ↓ 7 |
-| 11 | typescript | 19 | 9% | ↓ 1 |
-| 12 | docker | 18 | 9% | ↓ 1 |
-| 13 | agile | 16 | 8% | ↓ 7 |
-| 14 | postgres | 16 | 8% | ↑ 9 |
-| 15 | react | 16 | 8% | ↑ 1 |
+| 1 | python | 55 | 31% | ↓ 4 |
+| 2 | ci/cd | 37 | 21% | ↑ 8 |
+| 3 | llm | 35 | 20% | ↓ 1 |
+| 4 | aws | 33 | 19% | ↓ 4 |
+| 5 | sql | 32 | 18% | ↓ 7 |
+| 6 | devops | 24 | 13% | ↑ 5 |
+| 7 | azure | 23 | 13% | ↑ 2 |
+| 8 | terraform | 23 | 13% | ↑ 14 |
+| 9 | typescript | 22 | 12% | ↑ 3 |
+| 10 | gcp | 19 | 11% | ↓ 1 |
+| 11 | agile | 18 | 10% | ↑ 2 |
+| 12 | git | 18 | 10% | ↑ 9 |
+| 13 | kubernetes | 18 | 10% | ↓ 13 |
+| 14 | docker | 17 | 10% | ↓ 1 |
+| 15 | javascript | 17 | 10% | ↓ 4 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 46 |
-| devops | 38 |
-| backend | 30 |
-| data | 18 |
-| fullstack | 16 |
-| product | 12 |
-| mobile | 10 |
-| frontend | 9 |
-| qa | 8 |
-| design | 7 |
+| ml/ai | 32 |
+| devops | 31 |
+| backend | 29 |
+| mobile | 19 |
+| data | 17 |
+| frontend | 11 |
+| fullstack | 11 |
+| product | 10 |
+| qa | 7 |
+| other | 6 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Us Only | 41 |
-| United Kingdom | 27 |
-| Germany | 26 |
-| Netherlands | 23 |
-| France | 19 |
-| Remote | 18 |
-| Schweiz | 11 |
-| Switzerland | 9 |
-| Unknown | 6 |
-| Canada | 5 |
+| Germany | 34 |
+| Us Only | 32 |
+| United Kingdom | 24 |
+| Netherlands | 19 |
+| Switzerland | 17 |
+| France | 15 |
+| Remote | 8 |
+| Uk Only | 4 |
+| Unknown | 4 |
+| Canada | 3 |
 
 ---
 
