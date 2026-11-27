@@ -1,58 +1,58 @@
-# Skill Demand Radar — 2026-11-26
+# Skill Demand Radar — 2026-11-27
 
-- Jobs: **178**
+- Jobs: **199**
 - Sources: arbeitnow, remoteok
-- Compared with: 2026-11-25
+- Compared with: 2026-11-26
 
 ## Top 15 skills
 
 | # | Skill | Count | Share | Delta |
 |--:|:------|------:|------:|:------|
-| 1 | python | 55 | 31% | ↓ 4 |
-| 2 | ci/cd | 37 | 21% | ↑ 8 |
-| 3 | llm | 35 | 20% | ↓ 1 |
-| 4 | aws | 33 | 19% | ↓ 4 |
-| 5 | sql | 32 | 18% | ↓ 7 |
-| 6 | devops | 24 | 13% | ↑ 5 |
-| 7 | azure | 23 | 13% | ↑ 2 |
-| 8 | terraform | 23 | 13% | ↑ 14 |
-| 9 | typescript | 22 | 12% | ↑ 3 |
-| 10 | gcp | 19 | 11% | ↓ 1 |
-| 11 | agile | 18 | 10% | ↑ 2 |
-| 12 | git | 18 | 10% | ↑ 9 |
-| 13 | kubernetes | 18 | 10% | ↓ 13 |
-| 14 | docker | 17 | 10% | ↓ 1 |
-| 15 | javascript | 17 | 10% | ↓ 4 |
+| 1 | python | 56 | 28% | ↑ 1 |
+| 2 | ci/cd | 36 | 18% | ↓ 1 |
+| 3 | llm | 32 | 16% | ↓ 3 |
+| 4 | sql | 32 | 16% | → 0 |
+| 5 | azure | 31 | 16% | ↑ 8 |
+| 6 | devops | 31 | 16% | ↑ 7 |
+| 7 | aws | 27 | 14% | ↓ 6 |
+| 8 | kubernetes | 26 | 13% | ↑ 8 |
+| 9 | gcp | 21 | 11% | ↑ 2 |
+| 10 | typescript | 21 | 11% | ↓ 1 |
+| 11 | java | 19 | 10% | ↑ 9 |
+| 12 | agile | 18 | 9% | → 0 |
+| 13 | terraform | 18 | 9% | ↓ 5 |
+| 14 | git | 17 | 9% | ↓ 1 |
+| 15 | rest | 14 | 7% | ↑ 5 |
 
 ## Roles
 
 | Role | Count |
 |:-----|------:|
-| ml/ai | 32 |
-| devops | 31 |
-| backend | 29 |
-| mobile | 19 |
-| data | 17 |
+| devops | 47 |
+| ml/ai | 35 |
+| mobile | 23 |
+| backend | 20 |
+| data | 18 |
+| product | 16 |
+| other | 13 |
 | frontend | 11 |
-| fullstack | 11 |
-| product | 10 |
-| qa | 7 |
-| other | 6 |
+| fullstack | 10 |
+| qa | 5 |
 
 ## Countries
 
 | Country | Count |
 |:--------|------:|
-| Germany | 34 |
-| Us Only | 32 |
-| United Kingdom | 24 |
-| Netherlands | 19 |
-| Switzerland | 17 |
-| France | 15 |
-| Remote | 8 |
-| Uk Only | 4 |
-| Unknown | 4 |
-| Canada | 3 |
+| Germany | 32 |
+| Us Only | 31 |
+| France | 25 |
+| United Kingdom | 23 |
+| Switzerland | 20 |
+| Netherlands | 16 |
+| Remote | 10 |
+| Unknown | 8 |
+| Uk Only | 5 |
+| Bern | 4 |
 
 ---
 
